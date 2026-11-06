@@ -1,0 +1,1717 @@
+{
+  "RoA_A01_M03_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HEROES|r\nKhadgar became a great hero in recognition for his valiant service and advice to the kingdom of Azeroth during the First War. Khadgar traveled to Dalaran to discuss the origins of the Dark Portal with the mysterious council of Kirin Tor.",
+    "ptBR": "|cff8080ffNOVO HERÓI|r\nKhadgar tornou-se um grande herói em reconhecimento por seus valentes serviços e conselhos ao reino de Azeroth durante a Primeira Guerra. Khadgar viajou para Dalaran para discutir as origens do Portal Negro com o misterioso Conselho do Kirin Tor."
+  },
+  "RoA_A01_M03_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nThe enemy launched artillery strikes!|r",
+    "ptBR": "|cffff0000AVISO:|r\nO inimigo lançou um ataque de artilharia|r"
+  },
+  "RoA_A01_M03_MESS_003": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff00ff00Artillery strike round ended.|r",
+    "ptBR": "|cff00ff00O ataque de artilharia acabou.|r"
+  },
+  "RoA_A01_M03_MESS_004": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThere are no farms in Dalaran. Food is stored within houses, and your workers cannot build new ones. Keep them repaired after enemy attacks.",
+    "ptBR": "|cff32cd32DICA|r\nNão há fazenda em Dalaran. A comida é armazenada dentro das casas, e seus trabalhadores não podem construir novas casas. Mantenha-as reparadas após ataques inimigos."
+  },
+  "RoA_A01_M03_MESS_005": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nDalaran Swordsman – unique soldier of Dalaran, can be trained to withstand magical attacks.",
+    "ptBR": "|cffffcc00TECNOLOGIA SUBSTITUÍDA|r\nEspadachim de Dalaran â soldado exclusivo de Dalaran, pode ser treinado para resistir a ataques mágicos."
+  },
+  "RoA_A01_M03_MESS_006": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nElven Sentinel – elven citizens of Dalaran, skilled in marksmanship.",
+    "ptBR": "|cffffcc00TECNOLOGIA SUBSTITUÍDA|r\nSentinela Élfico - cidadãos élficos de Dalaran, exímios atiradores."
+  },
+  "RoA_A01_M03_MESS_007": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nFel Portals opened across the city!|r",
+    "ptBR": "|cffff0000AVISO:|r\nPortais Vis se abriram por toda a cidade!|r"
+  },
+  "RoA_A01_M03_MESS_008": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nBlacksmith has upgrades for infantry. It also allows you to research \"Alliance Melee Training\" in Barracks.",
+    "ptBR": "|cffffcc00NOVA TECNOLOGIA DESBLOQUEADA|r\nO ferreiro oferece aprimoramentos para a infantaria. Ele também permite pesquisar \"Treinamento de Combate Corpo a Corpo da Aliança\" no Quartel."
+  },
+  "RoA_A01_M03_MESS_009": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nYour workers can repair allied buildings.",
+    "ptBR": "|cff32cd32DICA|r\nSeus trabalhadores podem reparar edifícios aliados."
+  },
+  "RoA_A01_M03_MESS_010": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKhadgar can use the ability \"Leak the Oil\" to pour oil on the ground while moving. The oil trail must connect to the planted barrels to create a diversion.",
+    "ptBR": "|cff32cd32DICA|r\nKhadgar pode usar a habilidade \"Vazar Petróleo\" para derramar petróleo no chão enquanto se move. O rastro de petróleo precisa se conectar aos barris colocados para criar uma distração."
+  },
+  "RoA_A01_M03_MESS_011": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nAdditional oil barrels can be discovered in the Orc camps.",
+    "ptBR": "|cff32cd32DICA|r\nBarris de petróleo adicionais podem ser descobertos nos acampamentos dos Orcs."
+  },
+  "RoA_A01_M03_MESS_012": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKel’Thuzad will follow Khadgar’s lead. Guide the archmages to the designated sites so Kel’Thuzad can set up Arcane Generators.",
+    "ptBR": "|cff32cd32DICA|r\nKel'Thuzad seguirá Khadgar. Guie os arquimagos até os locais designados para que Kel'Thuzad possa instalar os Geradores Arcanos."
+  },
+  "RoA_A01_M03_MESS_013": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKel’Thuzad has activated the Arcane Generator. All undead within its range now suffer damage over time.",
+    "ptBR": "|cff32cd32DICA|r\nKelâThuzad ativou um Gerador Arcano. Todos os mortos-vivos em seu alcance sofrem dano contínuo."
+  },
+  "RoA_A01_M03_MESS_014": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThe Violet Council has finished its preparations and will soon strike at the invaders.",
+    "ptBR": "|cff32cd32DICA|r\nO Conselho Violeta concluiu seus preparativos e logo atacará os invasores."
+  },
+  "RoA_A01_M03_MESS_015": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r\nAnother Dalaran Bank has become accessible.",
+    "ptBR": "|cff32cd32DICA|r\nOutro Banco de Dalaran tornou-se acessível."
+  },
+  "RoA_A01_M03_MESS_016": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nKirin Tor mages have built a new waygate to move their forces closer to the front lines. You can use it as well.",
+    "ptBR": "|cff32cd32DICA|r\nOs magos do Kirin Tor construíram um novo portal de passagem para mover as suas forças mais perto das linhas de frente. Você pode usá-lo também."
+  },
+  "RoA_A01_M03_MESS_017": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nThe Alliance Vanguard and the Gilnean army will attack the remaining orc camps.",
+    "ptBR": "|cff32cd32DICA|r\nA Vanguarda da Aliança e o exército de Gilneas irão atacar os acampamentos orcs remanescentes."
+  },
+  "RoA_A01_M03_MESS_018": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000WARNING:|r\nUndead are attacking the Violet Citadel!",
+    "ptBR": "|cffff0000AVISO:|r\nOs mortos-vivos estão atacando a Cidadela Violeta!"
+  },
+  "RoA_A01_M03_MESS_019": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00Only shackled Dragons can be teleported.|r",
+    "ptBR": "|cffffcc00Apenas Dragões acorrentados podem ser teletransportados.|r"
+  },
+  "RoA_A01_M03_MESS_020": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Dragon was killed!!|r",
+    "ptBR": "|cffff0000Um dragão foi morto!!|r"
+  },
+  "RoA_A01_M03_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dalaran",
+    "ptBR": "Dalaran"
+  },
+  "RoA_A01_M03_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The Horde threatens the Violet Citadel, intent on its destruction. Defend the citadel and ensure its towers remain standing, the fate of our magical defenses depends on you.",
+    "ptBR": "A Horda ameaça a Cidadela Violeta e busca destruí-la. Defenda a cidadela e garanta que suas torres permaneçam de pé; o destino de nossas defesas mágicas depende de você."
+  },
+  "RoA_A01_M03_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Protect the Violet Citadel.",
+    "ptBR": "Proteja a Cidadela Violeta."
+  },
+  "RoA_A01_M03_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDalaran\n - Protect the Violet Citadel",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nDalaran\n - Proteja a Cidadela Violeta."
+  },
+  "RoA_A01_M03_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDalaran\n - |cffff0000Protect the Violet Citadel (failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nDalaran\n - |cffff0000Proteja a Cidadela Violeta. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDalaran",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nDalaran"
+  },
+  "RoA_A01_M03_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "ptBR": "|cffffcc00MISSÃO FRACASSADA|r"
+  },
+  "RoA_A01_M03_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Protect the Violet Citadel (failed)|r",
+    "ptBR": "|cffff0000Proteja a Cidadela Violeta. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prepare for Defense",
+    "ptBR": "Prepare-se para a Defesa"
+  },
+  "RoA_A01_M03_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Drenden has tasked Khadgar with training new soldiers to bolster the city’s defenses. Strengthen your ranks and ready the troops for the battles ahead.",
+    "ptBR": "Drenden encarregou Khadgar de treinar novos soldados para reforçar as defesas da cidade. Reforce as suas fileiras e prepare as suas tropas para as batalhas que virão."
+  },
+  "RoA_A01_M03_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train 5 Sentinels.",
+    "ptBR": "Treine 5 Sentinelas."
+  },
+  "RoA_A01_M03_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train 5 Swordsmen.",
+    "ptBR": "Treine 5 Espadachins."
+  },
+  "RoA_A01_M03_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nPrepare for Defense",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nPrepare-se para a Defesa"
+  },
+  "RoA_A01_M03_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nPrepare for Defense\n - Train 5 Swordsmen\n - Train 5 Sentinels",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nPrepare-se para a Defesa\n - Treine 5 Espadachins\n - Treine 5 Sentinelas"
+  },
+  "RoA_A01_M03_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find the Blacksmith",
+    "ptBR": "Encontre o Ferreiro"
+  },
+  "RoA_A01_M03_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The city’s blacksmith can forge stronger weapons and armor for your troops. Seek out a skilled smith and equip your soldiers with better armaments.",
+    "ptBR": "O ferreiro da cidade pode forjar armas e armaduras mais poderosas para suas tropas. Encontre-o e equipe seus soldados com armamentos melhores."
+  },
+  "RoA_A01_M03_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find the Blacksmith.",
+    "ptBR": "Encontre o Ferreiro"
+  },
+  "RoA_A01_M03_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nBlacksmith\n - Find the Blacksmith.",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO|r\nFerreiro\n - Encontre o Ferreiro."
+  },
+  "RoA_A01_M03_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nBlacksmith",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r\nFerreiro"
+  },
+  "RoA_A01_M03_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In Disguise",
+    "ptBR": "Disfarçado"
+  },
+  "RoA_A01_M03_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In disguise",
+    "ptBR": "Disfarçado"
+  },
+  "RoA_A01_M03_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Modera has entrusted Khadgar with a magical scroll that disguises him as an orc and revealed a portal leading out of the city. He must move carefully, if the eyes of Kilrogg detect him, the mission will be compromised.",
+    "ptBR": "Modera confiou a Khadgar um pergaminho mágico capaz de disfarçá-lo como um orc e revelou um portal que leva para fora da cidade. Ele deve agir com cuidado, pois, se os Olhos de Kilrogg o detectarem, a missão será comprometida."
+  },
+  "RoA_A01_M03_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use the Way Gate to teleport to wilderness.",
+    "ptBR": "Use o Portal de Passagem para se teleportar até as terras selvagens."
+  },
+  "RoA_A01_M03_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use the Scroll of Disguise Self to conceal Khadgar.",
+    "ptBR": "Use o Pergaminho de Disfarce para ocultar Khadgar."
+  },
+  "RoA_A01_M03_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Connect the dropped barrels with an oil trail.",
+    "ptBR": "Ligue os barris com uma trilha de petróleo."
+  },
+  "RoA_A01_M03_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nIn Disguise\n - Use the Way Gate to teleport to wilderness\n - Use the Scroll of Disguise Self to conceal Khadgar",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nDisfarçado\n - Use o Portal de Passagem para se teleportar até as terras selvagens.\n - Use o Pergaminho de Disfarce para ocultar Khadgar."
+  },
+  "RoA_A01_M03_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - Drop oil barrels at siege launchers\n - Connect the dropped barrels with an oil trail\n - Khadgar must not be compromised",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nDisfarçado\n - Coloque os barris de petróleo nos lançadores de cerco.\n - Conecte os barris com uma trilha de petróleo.\n - Khadgar não deve ser descoberto."
+  },
+  "RoA_A01_M03_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Way Gate to teleport to wilderness (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nDisfarçado\n - |cff808080Use o Portal de Passagem para se teleportar até as terras selvagens. (Concluído)|r"
+  },
+  "RoA_A01_M03_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Use the Scroll of Disguise Self to conceal Khadgar (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nDisfarçado\n - |cff808080Use o Pergaminho de Disfarce para ocultar Khadgar. (Concluído)|r"
+  },
+  "RoA_A01_M03_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Khadgar must not be compromised (failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nDisfarçado\n - |cffff0000Khadgar não deve ser descoberto. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Khadgar must not be compromised (failed)|r",
+    "ptBR": "|cffff0000Khadgar não deve ser descoberto. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nIn Disguise\n - |cffff0000Destroy Siege Launchers (failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nDisfarçado\n - |cffff0000Destrua os lançadores de cerco (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Destroy Siege Launchers (failed)|r",
+    "ptBR": "|cffff0000Destrua os lançadores de cerco (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nIn Disguise\n - |cff808080Drop oil barrels at siege launchers (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nDisfarçado\n - |cff808080Coloque os barris de petróleo nos lançadores de cerco. (Concluído)|r"
+  },
+  "RoA_A01_M03_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nIn Disguise",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nDisfarçado"
+  },
+  "RoA_A01_M03_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Drop oil barrels at siege launchers.",
+    "ptBR": "Coloque os barris de petróleo nos lançadores de cerco."
+  },
+  "RoA_A01_M03_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Khadgar must not be compromised.",
+    "ptBR": "Khadgar não deve ser descoberto."
+  },
+  "RoA_A01_M03_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Close the Portals",
+    "ptBR": "Feche os portais"
+  },
+  "RoA_A01_M03_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill Orcish warlocks that maintain the portals to close them.",
+    "ptBR": "Mate os bruxos orcs que mantêm os portais ativos para fechá-los."
+  },
+  "RoA_A01_M03_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill 3 orcish warlocks that maintain the portals.",
+    "ptBR": "Mate os 3 bruxos orcs que mantêm os portais."
+  },
+  "RoA_A01_M03_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nClose the Portals\n - Kill 3 orcish warlocks that maintain the portals.",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO|r\nFeche os portais\n - Mate os 3 bruxos orcs que mantêm os portais."
+  },
+  "RoA_A01_M03_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nClose the Portals",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r\nFeche os portais"
+  },
+  "RoA_A01_M03_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nClose the Portals\n - |cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r\nFeche os portais\n - |cffff0000Mate os 3 bruxos orcs que mantêm os portais. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Kill 3 orcish warlocks that maintain the portals. (Failed)|r",
+    "ptBR": "|cffff0000Mate os 3 bruxos orcs que mantêm os portais. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dalaran Guardians",
+    "ptBR": "Os Guardiões de Dalaran"
+  },
+  "RoA_A01_M03_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nActivate Guardians\n - Find 3 magical crystals.",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO|r\nAtive os Guardiões\n - Encontre os 3 cristais mágicos."
+  },
+  "RoA_A01_M03_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nActivate Guardians\n - |cff808080Find 3 magical crystals. (Completed)|r\n - Bring the crystals to the Violet Citadel.",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO ATUALIZADO|r\nAtive os Guardiões\n - |cff808080Encontre os 3 cristais mágicos. (Concluído)|r\n - Traga os cristais para a Cidadela Violeta."
+  },
+  "RoA_A01_M03_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nActivate Guardians",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r\nAtive os Guardiões"
+  },
+  "RoA_A01_M03_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nActivate Guardians\n - |cffff0000Find 3 magical crystals. (Failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r\nAtive os Guardiões\n - |cffff0000Encontre os 3 cristais mágicos. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Find 3 magical crystals. (Failed)|r",
+    "ptBR": "|cffff0000Encontre os 3 cristais mágicos. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find 3 magical crystals.",
+    "ptBR": "Encontre os 3 cristais mágicos"
+  },
+  "RoA_A01_M03_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Orcish warlocks hold magical crystals capable of reactivating the Guardian golems. Reclaim the crystals to awaken these ancient protectors.",
+    "ptBR": "Os bruxos orcs possuem cristais mágicos capazes de reativar os Golens Guardiões. Recupere esses cristais para despertar esses antigos protetores."
+  },
+  "RoA_A01_M03_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Bring the crystals to the Violet Citadel.",
+    "ptBR": "Traga os cristais para a Cidadela Violeta."
+  },
+  "RoA_A01_M03_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Hold the Line",
+    "ptBR": "Segurem a Linha"
+  },
+  "RoA_A01_M03_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Krasus commands the frontlines and calls upon Khadgar to aid in holding the defenses. Reinforce the battle lines and ensure the enemy does not break through.",
+    "ptBR": "Krasus lidera a linha de frente e convoca Khadgar a ajudar a manter as defesas. Reforce as linhas de batalha e certifique-se de que o inimigo não rompa as linhas."
+  },
+  "RoA_A01_M03_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nHold the Line\n - Help the Kirin Tor forces to hold off 3 waves of attack",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nSegurem a Linha\n - Ajude as forças do Kirin Tor a resistir a 3 ondas de ataques."
+  },
+  "RoA_A01_M03_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Help the Kirin Tor forces to hold off 3 waves of attack.",
+    "ptBR": "Ajude as forças do Kirin Tor a resistir a 3 ondas de ataques."
+  },
+  "RoA_A01_M03_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nHold the Line",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nSegurem a Linha"
+  },
+  "RoA_A01_M03_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Undead Menace",
+    "ptBR": "Ameaça dos Mortos-vivos"
+  },
+  "RoA_A01_M03_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kel’Thuzad offers his aid against the rising undead, claiming knowledge of how to halt their advance. Join forces with him and uncover the means to turn the tide.",
+    "ptBR": "Kel'Thuzad oferece sua ajuda contra a crescente ameaça dos mortos-vivos, afirmando conhecer uma maneira de deter seu avanço. Una forças a ele e descubra como virar o jogo."
+  },
+  "RoA_A01_M03_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Activate 2 Arcane Generators against the Undead.",
+    "ptBR": "Ative 2 Geradores Arcanos contra os Mortos-Vivos."
+  },
+  "RoA_A01_M03_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Protect Kel'thuzad while he sets up generators.",
+    "ptBR": "Proteja Kel'Thuzad enquanto ele prepara os geradores."
+  },
+  "RoA_A01_M03_OBJE_063": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nUndead Menace\n - Activate 2 Arcane Generators against the Undead.\n - Protect Kel'thuzad while he sets up the generators.",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nAmeaça dos Mortos-vivos\n - Ative 2 Geradores Arcanos contra os Mortos-Vivos.\n - Proteja Kel'Thuzad enquanto ele prepara os geradores."
+  },
+  "RoA_A01_M03_OBJE_064": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nUndead Menace\n - |cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nAmeaça dos Mortos-vivos\n - |cffff0000Proteja Kel'Thuzad enquanto ele prepara os geradores. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_065": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nUndead Menace",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nAmeaça dos Mortos-vivos"
+  },
+  "RoA_A01_M03_OBJE_066": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffff0000Protect Kel'thuzad while he sets up the generators. (failed)|r",
+    "ptBR": "|cffff0000Proteja Kel'Thuzad enquanto ele prepara os geradores. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_067": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragon Hazard",
+    "ptBR": "Perigo Dracônico"
+  },
+  "RoA_A01_M03_OBJE_068": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragons are a grave threat, yet Krasus forbids their killing, honoring the Dragon Aspects.  Capture them using Dragonhawk nets and teleport them with powers of Krasus's Staff.",
+    "ptBR": "Os dragões são um grave perigo, mas Krasus proíbe a morte deles, em respeito aos Aspectos dos Dragões. Capture-os utilizando as redes dos Falcões-dragão e teletransporte-os usando os poderes do Cajado de Krasus."
+  },
+  "RoA_A01_M03_OBJE_069": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Use Staff of Krasus to teleport netted Dragons.",
+    "ptBR": "Use o Cajado de Krasus para teletransportar dragões presos em redes."
+  },
+  "RoA_A01_M03_OBJE_070": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Do not allow more than 3 Dragons to be killed.",
+    "ptBR": "Não permita que mais de 3 Dragões sejam mortos."
+  },
+  "RoA_A01_M03_OBJE_071": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Capture the dragons with dragonhawk nets.",
+    "ptBR": "Capture os dragões com as redes dos Falcões-dragão."
+  },
+  "RoA_A01_M03_OBJE_072": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDragon Hazard\n - Capture the dragons with dragonhawk nets\n - Use Krasus` staff to teleport captured dragons\n - Do not allow more than 3 Dragons to be killed",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nPerigo Dracônico\n - Capture os dragões com as redes dos Falcões-dragão.\n - Use o Cajado de Krasus para teletransportar dragões presos em redes.\n - Não permita que mais de 3 Dragões sejam mortos."
+  },
+  "RoA_A01_M03_OBJE_073": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDragon Hazard",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nPerigo Dracônico"
+  },
+  "RoA_A01_M03_OBJE_074": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDragon Hazard\n - |cffff0000Do not allow more than 3 Dragons to be killed. (failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nPerigo Dracônico\n - |cffff0000Não permita que mais de 3 Dragões sejam mortos. (Fracassado)|r"
+  },
+  "RoA_A01_M03_OBJE_075": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dam",
+    "ptBR": "Represa"
+  },
+  "RoA_A01_M03_OBJE_076": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "With the dragons dealt with, the dam can be repaired to halt the orcish advance. Restore it to prevent the enemy from reaching the city.",
+    "ptBR": "Com os dragões neutralizados, a represa pode ser reparada para deter o avanço dos orcs. Restaure-a para impedir que o inimigo alcance a cidade."
+  },
+  "RoA_A01_M03_OBJE_077": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair the dam.",
+    "ptBR": "Repare a Represa"
+  },
+  "RoA_A01_M03_OBJE_078": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDam\n - Repair the dam",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nReconstrua a Represa\n - Repare a Represa"
+  },
+  "RoA_A01_M03_OBJE_079": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDam",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nRepresa"
+  },
+  "RoA_A01_M03_OBJE_080": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Counteroffensive",
+    "ptBR": "Contra-ataque"
+  },
+  "RoA_A01_M03_OBJE_081": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The time has come to strike back at the invaders. Rally your forces and lay waste to their encampments, leaving none to threaten the city again.",
+    "ptBR": "Chegou a hora de revidar contra os invasores. Reúna suas tropas e destrua seus acampamentos, eliminando qualquer ameaça à cidade."
+  },
+  "RoA_A01_M03_OBJE_082": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Blackrock Camp.",
+    "ptBR": "Destrua o Acampamento do Clã Rocha Negra"
+  },
+  "RoA_A01_M03_OBJE_083": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nCounteroffensive\n - Destroy Blackrock Camp",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nContra-ataque\n - Destrua o Acampamento dos Rochas Negras"
+  },
+  "RoA_A01_M03_OBJE_084": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Blackrock Camp. (Completed)|r\n - Destroy Black Tooth Grin Camp\n - Destroy Dragonmaw Camp",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nContra-ataque\n - |cff808080Destrua o Acampamento do Clã Rocha Negra. (Concluído)|r\n - Destrua o Acampamento do Sorriso do Dente Preto.\n - Destrua o Acampamento da Presa do Dragão."
+  },
+  "RoA_A01_M03_OBJE_085": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Black Tooth Grin Camp. (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nContra-ataque\n - |cff808080Destrua o Acampamento do Sorriso do Dente Preto. (Concluído)|r"
+  },
+  "RoA_A01_M03_OBJE_086": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nCounteroffensive\n - |cff808080Destroy Dragonmaw Camp. (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nContra-ataque\n - |cff808080Destrua o Acampamento da Presa do Dragão. (Concluído)|r"
+  },
+  "RoA_A01_M03_OBJE_087": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nCounteroffensive",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nContra-ataque"
+  },
+  "RoA_A01_M03_OBJE_088": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Dragonmaw Camp.",
+    "ptBR": "Destrua o Acampamento da Presa do Dragão."
+  },
+  "RoA_A01_M03_OBJE_089": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Black Tooth Grin Camp.",
+    "ptBR": "Destrua o Acampamento do Sorriso do Dente Preto."
+  },
+  "RoA_A01_M03_OBJE_090": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Dragonmaw Camp",
+    "ptBR": "Destrua o Acampamento da Presa do Dragão."
+  },
+  "RoA_A01_M03_OBJE_091": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Black Tooth Grin Camp",
+    "ptBR": "Destrua o Acampamento do Sorriso do Dente Preto."
+  },
+  "RoA_A01_M03_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Quest Objectives:",
+    "ptBR": "Objetivos da Missão"
+  },
+  "RoA_A01_M03_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Swordsmen left to train:",
+    "ptBR": "Espadachins restantes para treinar:"
+  },
+  "RoA_A01_M03_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Sentinels left to train:",
+    "ptBR": "Sentinelas restantes para treinar:"
+  },
+  "RoA_A01_M03_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Opened Active Portals",
+    "ptBR": "Portais ativos:"
+  },
+  "RoA_A01_M03_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Barrels to drop at catapults:",
+    "ptBR": "Barris para colocar nas catapultas"
+  },
+  "RoA_A01_M03_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Disguise dispels in:",
+    "ptBR": "O disfarce se dissipa em:"
+  },
+  "RoA_A01_M03_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Crystals left to pick:",
+    "ptBR": "Cristais restantes para coletar:"
+  },
+  "RoA_A01_M03_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Warlocks left:",
+    "ptBR": "Bruxos restantes:"
+  },
+  "RoA_A01_M03_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Attack Waves Remaining:",
+    "ptBR": "Ondas de ataque restantes:"
+  },
+  "RoA_A01_M03_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Set up magical generators:",
+    "ptBR": "Instale os Geradores mágicos:"
+  },
+  "RoA_A01_M03_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Setting up magical generator in:",
+    "ptBR": "Instalando o Gerador mágico em:"
+  },
+  "RoA_A01_M03_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Setting up magical generator in:",
+    "ptBR": "Instalando o Gerador mágico em:"
+  },
+  "RoA_A01_M03_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repairment Progress (%):",
+    "ptBR": "Progresso do Reparo (%):"
+  },
+  "RoA_A01_M03_SCRN_014": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Magical Prison",
+    "ptBR": "Prisão Mágica"
+  },
+  "RoA_A01_M03_SCRN_015": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Killed Dragons:",
+    "ptBR": "Dragões mortos:"
+  },
+  "RoA_A01_M03_SCRN_016": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Blackrock Camp",
+    "ptBR": "Destrua o Acampamento do Clã Rocha Negra"
+  },
+  "RoA_A01_M03_SCRN_017": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dragons left to save:",
+    "ptBR": "Dragões restantes para salvar:"
+  },
+  "RoA_A01_M03_SCRN_018": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Next wave attacks in:",
+    "ptBR": "Próxima onda de ataque em:"
+  },
+  "RoA_A01_M03_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Great masters, welcome. If I may, let me…",
+    "ptBR": "Bem-vindos, grandes mestres. Se me permitem, deixem-me..."
+  },
+  "RoA_A01_M03_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "There is no time for formalities, Master Drenden. Cross Island has fallen, Master Norlan has been slain, and the Horde is marching upon our city.",
+    "ptBR": "Não temos tempo para formalidades, Mestre Drenden. A Ilha Cruz caiu, Mestre Norlan foi morto, e a Horda está marchando contra a nossa cidade."
+  },
+  "RoA_A01_M03_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Chief Artificer? Dead? Without his constructs and our outlying defenses, how can we hope to stop their onslaught?",
+    "ptBR": "O Artífice-Chefe? Morto? Sem os seus constructos e nossas defesas periféricas, como podemos esperar repelir o assalto deles?"
+  },
+  "RoA_A01_M03_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "I am afraid we will need to improvise.",
+    "ptBR": "Receio que teremos que improvisar."
+  },
+  "RoA_A01_M03_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Improvise? They have dragons. We need more than that against such a power!",
+    "ptBR": "Improvisar? Eles têm dragões. Precisamos de mais do que isso se queremos enfrentar tal poder!"
+  },
+  "RoA_A01_M03_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Calm down, masters. We’ve received a word that Doomhammer has been defeated at Lordaeron, and we’ll be soon reinforced by Alliance armies. The young Khadgar has delivered the report himself. We only need to hold our ground.",
+    "ptBR": "Tenham calma, mestres. Fui informado de que o Martelo da Perdição foi derrotado em Lordaeron, e logo seremos reforçados pelos exércitos da Aliança. O jovem Khadgar entregou o relatório pessoalmente. Só precisamos resistir."
+  },
+  "RoA_A01_M03_VO_S001_007": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Drenden, rendezvous with Master Khadgar. His battlefield experience will be useful in coordinating our efforts.",
+    "ptBR": "Drenden, encontre-se com o Mestre Khadgar. Sua experiência no campo de batalha será valiosa para coordenar nossos esforços."
+  },
+  "RoA_A01_M03_VO_S001_008": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "As you wish. But what of Master Norlan’s now-vacant position on our council?",
+    "ptBR": "Como desejar. Mas e quanto ao cargo do Mestre Norlan em nosso conselho, agora vago?"
+  },
+  "RoA_A01_M03_VO_S001_009": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "There’s no time to debate that now. But worry not, I have a candidate in mind. She might be young, but her talents are unquestionable…",
+    "ptBR": "Não temos tempo de discutir isso. Mas não se preocupe, eu tenho um candidato em mente. Ela pode ser jovem, mas seus talentos são extraordinários..."
+  },
+  "RoA_A01_M03_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Master Khadgar, here you are. We need to talk. The council has a task for you.",
+    "ptBR": "Mestre Khadgar, aqui está você. Nós precisamos conversar. O conselho tem uma tarefa para você."
+  },
+  "RoA_A01_M03_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Yes?",
+    "ptBR": "Sim?"
+  },
+  "RoA_A01_M03_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "As the Kirin Tor is occupied with other tasks, we require someone to take care of our troops and battlefield defenses. Given your extensive experience, you seem to be the most fitting choice.",
+    "ptBR": "Como o Kirin Tor está ocupado com outras tarefas, precisamos de alguém para supervisionar nossas tropas e defesas. Dada sua experiência, você parece ser a pessoa mais indicada."
+  },
+  "RoA_A01_M03_VO_S002_004": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "The outer gates and water barriers protect us from ground attacks, but with our magical defenses weakened, orcish warlocks can open portals to assail the city directly.",
+    "ptBR": "As muralhas externas e as barreiras aquáticas nos protegem de ataques terrestres, mas, com as nossas defesas mágicas enfraquecidas, os bruxos orcs podem abrir portais para atacar a cidade diretamente."
+  },
+  "RoA_A01_M03_VO_S002_005": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "With these portals active, even the Violet Citadel itself is in danger. You must do whatever you can to protect it from their assaults.",
+    "ptBR": "Com esses portais ativos, até a Cidadela Violeta está em perigo. Você deve fazer tudo o que estiver ao seu alcance para protegê-la desses ataques."
+  },
+  "RoA_A01_M03_VO_S002_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Understood. But first, I need more soldiers.",
+    "ptBR": "Entendido. Mas, primeiro, eu vou precisar de mais tropas."
+  },
+  "RoA_A01_M03_VO_S002_007": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "Indeed. Our infantry and archer regiments are at your disposal. As this district has already been damaged by the Horde’s bombardment, you will need to use our workforce and resources to repair its structures.",
+    "ptBR": "Com certeza. Nossos regimentos de soldados e arqueiros estão à sua disposição. Como esse distrito já foi danificado pelo bombardeio da Horda, você terá de utilizar nossa mão de obra e nossos recursos para reparar as estruturas."
+  },
+  "RoA_A01_M03_VO_S002_008": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "The city banks are open to you, take anything you need. You are also free to scour for any lumber hidden in crates and barrels. If need be, cut even park trees down.",
+    "ptBR": "Os bancos da cidade estão abertos para você; pegue tudo que precisar. Você também está autorizado a procurar madeira escondida em caixas e barris. Se necessário, você pode cortar as árvores do parque."
+  },
+  "RoA_A01_M03_VO_S002_009": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That will be a heartbreaking sight. I have always loved those trees. But it can’t be helped, the survival of our city is at stake.",
+    "ptBR": "Isso partirá o meu coração. Eu sempre amei essas árvores. Mas não temos escolha, a sobrevivência da nossa cidade está em jogo."
+  },
+  "RoA_A01_M03_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Enough standing around — fire up those catapults! I want Dalaran’s walls to crumble and its inhabitants to be buried under the rubble. Launch the strike!",
+    "ptBR": "Chega de ficarem parados! Ponham essas catapultas para funcionar! Eu quero ver as muralhas de Dalaran ruírem e seus habitantes soterrados sob os escombros. Comecem o ataque!"
+  },
+  "RoA_A01_M03_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "We must secure one of our blacksmiths, our troops need to repair and refine their armor and weaponry.",
+    "ptBR": "Precisamos encontrar um de nossos ferreiros, nossas tropas precisam consertar e aprimorar as suas armaduras e armas."
+  },
+  "RoA_A01_M03_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "RET",
+    "unit_name": "Retera",
+    "enUS": "Citizens of Dalaran!",
+    "ptBR": "Cidadãos de Dalaran!"
+  },
+  "RoA_A01_M03_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "RET",
+    "unit_name": "Retera",
+    "enUS": "I come to rescue!",
+    "ptBR": "Eu venho para resgatá-los!"
+  },
+  "RoA_A01_M03_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Keep patroling the streets, we never know where they spawn next portal, and try to not get killed by the catapult shells.",
+    "ptBR": "Continue patrulhando a cidade. Nunca sabemos onde o próximo portal poderá surgir, e tente não ser morto por um projétil das catapultas."
+  },
+  "RoA_A01_M03_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Captain",
+    "enUS": "Yes, my lady.",
+    "ptBR": "Sim, minha senhora"
+  },
+  "RoA_A01_M03_VO_S006_003": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "You almost startled me!",
+    "ptBR": "Você quase me deu um susto!"
+  },
+  "RoA_A01_M03_VO_S006_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "May I be of service, my lady?",
+    "ptBR": "Como posso ser útil, minha senhora?"
+  },
+  "RoA_A01_M03_VO_S006_005": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Modera’s the name. I am…was the personal assistant to Master Norlan…",
+    "ptBR": "Meu nome é Modera. Eu sou... fui a assistente pessoal do Mestre Norlan..."
+  },
+  "RoA_A01_M03_VO_S006_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "My condolences.",
+    "ptBR": "Meus pêsames."
+  },
+  "RoA_A01_M03_VO_S006_007": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Thank you. But we have more pressing matters at hand. The Horde’s artillery is tearing down our defenses…",
+    "ptBR": "Obrigada. Mas nós temos assuntos mais urgentes para resolver. A artilharia da Horda está destruindo as nossas defesas."
+  },
+  "RoA_A01_M03_VO_S006_008": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "And the Kirin Tor wants me to take it down. How?",
+    "ptBR": "E o Kirin Tor quer que eu acabe com elas. Como?"
+  },
+  "RoA_A01_M03_VO_S006_009": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "This scroll will allow you to take on an appearance of one of their own. Unless you trigger one of their magical sentries, that should be enough to get past their lines.",
+    "ptBR": "Esse pergaminho permitirá que você assuma a aparência de um deles. A menos que você alerte os sentinelas mágicos, isso deve bastar para passar pelas linhas deles."
+  },
+  "RoA_A01_M03_VO_S006_010": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Well, let’s hope the enchantment itself is reliable.",
+    "ptBR": "Bem, vamos torcer para que o feitiço em si seja confiável."
+  },
+  "RoA_A01_M03_VO_S006_011": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Don’t worry, I’ve made it myself.",
+    "ptBR": "Não se preocupe, eu mesma o criei."
+  },
+  "RoA_A01_M03_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "GRU",
+    "unit_name": "Grunt",
+    "enUS": "Hey you! Use oil to set up this building on fire, and return to work!",
+    "ptBR": "Ei, você! Use o petróleo para incendiar esse edifício, depois volte para o trabalho."
+  },
+  "RoA_A01_M03_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Hm... I could use these oil barrels to set up the diversion....",
+    "ptBR": "Hm... eu poderia usar esses barris de petróleo para criar uma distração..."
+  },
+  "RoA_A01_M03_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I must use the scroll. If the orcs notice me like that, I'm dead man.",
+    "ptBR": "Eu preciso usar o pergaminho. Se os orcs me virem assim, eles me matarão."
+  },
+  "RoA_A01_M03_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I need to set up a diversion before my disguise fades. I’d better hurry, it won’t last a whole day.",
+    "ptBR": "Eu preciso criar uma distração antes que o disfarce se desfaça. àmelhor eu me apressar, o feitiço não vai durar o dia inteiro."
+  },
+  "RoA_A01_M03_VO_S007_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I need to avoid any violence, they would surely discover and kill me otherwise.",
+    "ptBR": "Preciso evitar qualquer confronto; eles iriam descobrir e me matar."
+  },
+  "RoA_A01_M03_VO_S007_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "What a cruel sight. Such majestic creatures enslaved by the orcs…",
+    "ptBR": "Quanta crueldade. Criaturas tão majestosas sendo escravizadas pelos orcs..."
+  },
+  "RoA_A01_M03_VO_S007_007": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These malevolent apparitions could see through my disguise, I must steer clear of them.",
+    "ptBR": "Essas aparições malévolas podem me ver através do meu disfarce; eu devo ficar longe delas."
+  },
+  "RoA_A01_M03_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "The staff of Magna Aegwynn. How could it have ended up in the hands of thse monsters? I must retrieve it when this senile orc is distracted.",
+    "ptBR": "O cajado de Magna Aegwynn. Como ele foi parar nas mãos desses monstros? Eu preciso recuperá-lo quando esse orc senil estiver distraído."
+  },
+  "RoA_A01_M03_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These undead are wearing the armor of the Stormwind Knights. What a depravity.",
+    "ptBR": "Esses mortos-vivos vestem a armadura dos Cavaleiros de Ventobravo. Que profanação."
+  },
+  "RoA_A01_M03_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "These wretched humans are bolstering their defenses, holding even against our relentless bombardment!",
+    "ptBR": "Esses humanos miseráveis continuam reforçando suas defesas e resistem até mesmo ao nosso bombardeio implacável!"
+  },
+  "RoA_A01_M03_VO_S010_002": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Lets just throw everything we have at them!",
+    "ptBR": "Vamos atacar com tudo que temos!"
+  },
+  "RoA_A01_M03_VO_S010_003": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "No, you fool! We must break the dam! Once the water levels have fallen, we flank their forces!",
+    "ptBR": "Não, seu idiota! Precisamos destruir a represa! Quando os níveis de água caírem, flanquearemos suas forças!"
+  },
+  "RoA_A01_M03_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Good, the barrels are ready. I still have some time, so I'd better get rid of those warlocks that maintain the portals...",
+    "ptBR": "Ótimo, os barris estão prontos. Ainda tenho tempo, então é melhor eu me livrar desses bruxos que mantêm os portais ativos..."
+  },
+  "RoA_A01_M03_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "My best strategy would be to place a barrel beneath the catapult, then leave a trail of oil leading to the next one and place another barrel there. That way, I could set them all ablaze in a single attempt.",
+    "ptBR": "Minha melhor estratégia seria colocar um barril debaixo da catapulta, depois deixar uma trilha de petróleo até a próxima e colocar outro barril ali. Assim, eu poderia incendiar todos eles de uma só vez."
+  },
+  "RoA_A01_M03_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "These are the portals that orcs use to send troops to the city. If I could dispose of those warlocks discreetly... I need to figure something out.",
+    "ptBR": "Esses são os portais que os orcs usam para enviar tropas até a cidade. Se eu conseguisse me livrar discretamente desses bruxos... preciso pensar em algo."
+  },
+  "RoA_A01_M03_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "What a tragic accident...",
+    "ptBR": "Que acidente trágico..."
+  },
+  "RoA_A01_M03_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Look! This is a crystal from one of the Cross Island citadels. Find two more and maybe we will be able to restore our arcane guardians.",
+    "ptBR": "Olhe! Este é um cristal de uma das cidadelas da Ilha Cruz. Encontre mais dois e talvez consigamos reativar os nossos guardiões arcanos."
+  },
+  "RoA_A01_M03_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "This one had a burnout at his job.",
+    "ptBR": "Esse aí se queimou no trabalho."
+  },
+  "RoA_A01_M03_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That lever… seems like it controls the crane... interesting...",
+    "ptBR": "Essa alavanca... parece que controla o guindaste... interessante..."
+  },
+  "RoA_A01_M03_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Orcs are so negligent with workplace safety...",
+    "ptBR": "Os orcs são tão negligentes com a segurança no trabalho..."
+  },
+  "RoA_A01_M03_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "Good! When you return to the city, activate the Guardians near the Violet Citadel.",
+    "ptBR": "Ótimo! Quando você retornar à cidade, ative os guardiões perto da Cidadela Violeta."
+  },
+  "RoA_A01_M03_VO_S013_1_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. The orcish artillery has been dealt with as requested…",
+    "ptBR": "Mestre Krasus. A artilharia orc foi destruída conforme solicitado..."
+  },
+  "RoA_A01_M03_VO_S013_1_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Good job.",
+    "ptBR": "Bom trabalho."
+  },
+  "RoA_A01_M03_VO_S013_2_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. I managed to destroy some of the orcish siege machines…",
+    "ptBR": "Mestre Krasus. Eu consegui destruir algumas máquinas de cerco dos orcs..."
+  },
+  "RoA_A01_M03_VO_S013_2_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Better than nothing.",
+    "ptBR": "Melhor do que nada."
+  },
+  "RoA_A01_M03_VO_S013_3_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Master Krasus. I tried to destroy orcish siege machines, but it was impossible to accomplish this task.",
+    "ptBR": "Mestre Krasus. Eu tentei destruir as máquinas de cerco dos orcs, mas foi impossível completar essa tarefa."
+  },
+  "RoA_A01_M03_VO_S013_3_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Too bad, it means they will continue to damage the city.",
+    "ptBR": "Uma pena, significa que eles continuarão a danificar a cidade."
+  },
+  "RoA_A01_M03_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Yet another problem has arisen. The orcs have damaged the dam barring the Violet River. Without it, the water levels have fallen…",
+    "ptBR": "Um novo problema surgiu. Os orcs danificaram a represa que continha o Rio Violeta. Sem ela, os níveis da água cairiamâ¦"
+  },
+  "RoA_A01_M03_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "And the orcs can now easily cross the stream and attack our weakest spots with impunity. Damn it! We must repair the dam immediately.",
+    "ptBR": "E agora os orcs podem atravessar o riacho e atacar nossos pontos mais vulneráveis com impunidade. Maldição! Nós precisamos consertar a represa imediatamente."
+  },
+  "RoA_A01_M03_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Yes, but first, we need to secure our defense perimeter. They can’t reach the inner parts of the city.",
+    "ptBR": "Sim, mas primeiro precisamos assegurar o nosso perímetro defensivo. Eles não podem chegar ao interior da cidade."
+  },
+  "RoA_A01_M03_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I stand with you.",
+    "ptBR": "Estou do seu lado."
+  },
+  "RoA_A01_M03_VO_S015_001": {
+    "type": "VO",
+    "unit_id": "TGO",
+    "unit_name": "Teron Gorefiend",
+    "enUS": "Pathetic mortals, in the end, all shall feel the touch of death’s embrace!",
+    "ptBR": "Mortais patéticos, no fim, todos sentirão o abraço da morte!"
+  },
+  "RoA_A01_M03_VO_S015_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "So much carnage…",
+    "ptBR": "Tanta carnificina..."
+  },
+  "RoA_A01_M03_VO_S015_003": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "And there’s more to come. Our sentries report the orcs are massing for another attack. Headed by none other than their necromantic undead…",
+    "ptBR": "E ainda há mais por vir. Nossos sentinelas nos informam que os orcs estão se juntando para o próximo ataque, liderados por seus mortos-vivos necromânticos..."
+  },
+  "RoA_A01_M03_VO_S015_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "The ones that ravaged Stratholme and Quel’Thalas…the death knights.",
+    "ptBR": "Aqueles que devastaram Stratholme e Quel'Thalas... os cavaleiros da morte."
+  },
+  "RoA_A01_M03_VO_S015_005": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Hmm. Thankfully, my studies have allowed me to design a potent spell that should protect us from their necromantic magic. However, I’ll need protection while invoking it.",
+    "ptBR": "Hmm. Felizmente, meus estudos permitiram que eu criasse um poderoso feitiço que deve nos proteger da magia necromântica deles. No entanto, eu precisarei de proteção enquanto o invoco."
+  },
+  "RoA_A01_M03_VO_S016_001": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "Curious…utmost curious. This will require further research.",
+    "ptBR": "Curioso... realmente curioso. Precisarei pesquisar mais sobre isso."
+  },
+  "RoA_A01_M03_VO_S016_002": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "...my dragonhawks are ready. With proper support, they will outmaneuver these dragons.",
+    "ptBR": "Meus falcões-dragão estão prontos. Com apoio adequado, eles poderão superar esses dragões em mobilidade."
+  },
+  "RoA_A01_M03_VO_S016_003": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "You want to attack them head on?",
+    "ptBR": "Você quer atacá-los de frente?"
+  },
+  "RoA_A01_M03_VO_S016_004": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "No. We merely need to capture a few of them and force the rest back.",
+    "ptBR": "Não. Só precisamos capturar alguns e forçar o resto a recuar."
+  },
+  "RoA_A01_M03_VO_S016_005": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Capture?!",
+    "ptBR": "Capturar?!"
+  },
+  "RoA_A01_M03_VO_S016_006": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Just so. These leviathans are too powerful a weapon of war. We need to learn more about the magic the orcs use to control them. Otherwise, they might always pose a threat to us. And the best way to do so is to capture and study some of them.",
+    "ptBR": "Exatamente. Esses leviatas são armas de guerra formidáveis. Nós precisamos entender mais sobre as magias que os orcs usam para controlá-los. Caso contrário, eles continuarão sendo uma ameaça para nós. E a melhor forma de fazê-lo é capturando e estudando alguns deles."
+  },
+  "RoA_A01_M03_VO_S016_007": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "I’ll leave that to Khadgar. There’s something strange about these dragons. How can the orcs control such once-majestic creatures? I - We need to learn more about it.",
+    "ptBR": "Eu deixarei isso para Khadgar. Há algo de estranho com esses dragões. Como os orcs conseguem controlar criaturas que já foram tão majestosas? Eu â Nós precisamos saber mais sobre isso."
+  },
+  "RoA_A01_M03_VO_S016_008": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Very well then. I wish your dragonhawks favorable winds, prince Kael.",
+    "ptBR": "Muito bem, então. Eu desejo ventos favoráveis aos seus falcões-dragão, príncipe Kael."
+  },
+  "RoA_A01_M03_VO_S016_009": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "Elves don’t need luck, my young friend.",
+    "ptBR": "Elfos não precisam de sorte, meu jovem amigo."
+  },
+  "RoA_A01_M03_VO_S017_001": {
+    "type": "VO",
+    "unit_id": "ZTW",
+    "unit_name": "Zuluhed the Whacked",
+    "enUS": "Dragonmaws! Burn them to ashes!",
+    "ptBR": "Presas do Dragão! Queimem-nos até virarem cinzas!"
+  },
+  "RoA_A01_M03_VO_S017_002": {
+    "type": "VO",
+    "unit_id": "RBL",
+    "unit_name": "Dal’Rend Blackhand",
+    "enUS": "Warriors! Tear through their ranks, carve a path to victory!",
+    "ptBR": "Guerreiros! Dilacerem as fileiras inimigas e abram caminho para a vitória!"
+  },
+  "RoA_A01_M03_VO_S017_003": {
+    "type": "VO",
+    "unit_id": "MBL",
+    "unit_name": "Maim Blackhand",
+    "enUS": "Let none survive! Grind their bones to dust!",
+    "ptBR": "Não deixem ninguém vivo! Reduzam seus ossos a pó!"
+  },
+  "RoA_A01_M03_VO_S018_001": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "We have all we need. The rest of their air forces are retreating!",
+    "ptBR": "Nós temos tudo do que precisamos. Os dragões restantes estão recuando!"
+  },
+  "RoA_A01_M03_VO_S018_002": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "Khadgar, order the worker to repair the dam, we need it back in order as soon as possible!",
+    "ptBR": "Khadgar, ordene aos seus trabalhadores para consertarem a represa; precisamos dela funcionando novamente o quanto antes!"
+  },
+  "RoA_A01_M03_VO_S019_001": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "Good riddance. It was about time we cleaned the city of this vermin.",
+    "ptBR": "Já vão tarde. Estava na hora de limparmos a nossa cidade desses vermes."
+  },
+  "RoA_A01_M03_VO_S019_002": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I wouldn’t celebrate yet. There are still….",
+    "ptBR": "Eu não celebraria ainda. Ainda há..."
+  },
+  "RoA_A01_M03_VO_S019_003": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Khadgar! Good to see you in one piece, master mage.",
+    "ptBR": "Khadgar! àbom vê-lo inteiro, mestre mago."
+  },
+  "RoA_A01_M03_VO_S019_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Likewise, commander. I take it you have secured the lake?",
+    "ptBR": "Igualmente, comandante. Presumo que tenha assegurado o lago?"
+  },
+  "RoA_A01_M03_VO_S019_005": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Nearly. But it will take a while until more of our forces arrive. You’ll have to do with me and the vanguard. Still, I see you’ve taken good care of the city.",
+    "ptBR": "Quase, mas vai levar um tempo para que mais forças cheguem. Você terá que se contentar comigo e minha vanguarda. De qualquer forma, eu vejo que você cuidou bem da cidade."
+  },
+  "RoA_A01_M03_VO_S019_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Thank you. The Horde’s offensive has been broken, yet there’s still a significant force beyond the river. It’s only a matter of time before they regroup and renew their assault…",
+    "ptBR": "Obrigado. A ofensiva da Horda foi quebrada, mas eles ainda possuem uma força significativa além do rio. àapenas uma questão de tempo até eles se reagruparem e lançarem um novo ataque."
+  },
+  "RoA_A01_M03_VO_S019_007": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "It seems I’ve arrived just in time. We can’t let them do that. Soldiers, march on!",
+    "ptBR": "Parece então que eu cheguei bem a tempo. Nós não podemos permitir isso. Soldados, avancem!"
+  },
+  "RoA_A01_M03_VO_S020_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Hateful undead! Your presence defiles these lands; I will purge you!",
+    "ptBR": "Mortos-vivos abomináveis! Sua presença profana estas terras; eu os purgarei!"
+  },
+  "RoA_A01_M03_VO_S020_002": {
+    "type": "VO",
+    "unit_id": "TGO",
+    "unit_name": "Teron Gorefiend",
+    "enUS": "This is not our last fight, paladin!",
+    "ptBR": "Essa não será a nossa última luta, paladino!"
+  },
+  "RoA_A01_M03_VO_S021_001": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "That’s Sir Lothar!",
+    "ptBR": "ào Senhor Lothar!"
+  },
+  "RoA_A01_M03_VO_S021_002": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "The old man always keeps his word.",
+    "ptBR": "O velho sempre mantém a sua palavra."
+  },
+  "RoA_A01_M03_VO_S021_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Good to see you, lads. Like I promised, I’ve brought some friends.",
+    "ptBR": "àbom vê-los, rapazes. Como eu prometi, eu trouxe alguns amigos."
+  },
+  "RoA_A01_M03_VO_S021_004": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "I am surprised to see so many Gilneans with you, sir. I thought King Greymane had a different strategy in mind…",
+    "ptBR": "Estou surpreso em ver tantos gilneanos ao seu lado, senhor. Pensei que o rei Greymane tivesse outra estratégia em mente..."
+  },
+  "RoA_A01_M03_VO_S021_005": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Sometimes, strategies have to be adjusted. And not all of us agree with His Majesty and their brilliant mind.",
+    "ptBR": "Às vezes, estratégias precisam ser adaptadas. E nem todos concordam com Vossa Majestade e sua mente brilhante."
+  },
+  "RoA_A01_M03_VO_S021_006": {
+    "type": "VO",
+    "unit_id": "KHA",
+    "unit_name": "Khadgar",
+    "enUS": "Well said.",
+    "ptBR": "Bem dito."
+  },
+  "RoA_A01_M03_VO_S021_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "We’ll have time to discuss this later. We have the orcs on the run. It’s time to finish this.",
+    "ptBR": "Nós teremos tempo para falarmos disso depois. Os orcs estão na defensiva. Vamos acabar com isso."
+  },
+  "RoA_A01_M03_VO_S021_008": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Yes, sir!",
+    "ptBR": "Sim, senhor!"
+  },
+  "RoA_A01_M03_VO_S021_009": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Draw steel, boys!",
+    "ptBR": "Saquem aço, rapazes!"
+  },
+  "RoA_A01_M03_VO_S022_001": {
+    "type": "VO",
+    "unit_id": "KTH",
+    "unit_name": "Kel’Thuzad",
+    "enUS": "The orcs are retreating. The city is safe. But we must still measure the real cost of life. The level of damage is…considerable. Their dark powers have done their work.",
+    "ptBR": "Os orcs estão recuando. A cidade está a salvo. Mas ainda precisamos avaliar o verdadeiro custo em vidas. Os danos são... consideráveis. Seus poderes sombrios deixaram sua marca."
+  },
+  "RoA_A01_M03_VO_S022_002": {
+    "type": "VO",
+    "unit_id": "KSU",
+    "unit_name": "Kael'thas Sunstrider",
+    "enUS": "We should have slaughtered them all for what they did to my homeland.",
+    "ptBR": "Nós devíamos ter matado todos eles pelo que fizeram com a minha terra natal."
+  },
+  "RoA_A01_M03_VO_S022_003": {
+    "type": "VO",
+    "unit_id": "KRA",
+    "unit_name": "Krasus",
+    "enUS": "At least we can now learn more of their dominion over the dragons.",
+    "ptBR": "Ao menos podemos aprender mais sobre como eles controlam os dragões."
+  },
+  "RoA_A01_M03_VO_S022_004": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "My friends. Our city has seen many great calamities and endured all of them. This is no different. We are the Kirin Tor. We will rebuild, we will restore, we will preserve.",
+    "ptBR": "Meus amigos. Nossa cidade enfrentou inúmeras calamidades e resistiu a todas elas. Isso não é diferente. Nós somos o Kirin Tor. Nós vamos reconstruir, vamos restaurar, vamos preservar."
+  },
+  "RoA_A01_M03_VO_S022_005": {
+    "type": "VO",
+    "unit_id": "ANT",
+    "unit_name": "Antonidas",
+    "enUS": "But there’s another matter to attend. Master Norlan’s passing has left his seat on the council vacant. And I believe young Master Modera to be a proper choice for his replacement.",
+    "ptBR": "Mas temos outro assunto para discutir. A morte do Mestre Norlan deixou uma vaga no conselho. E eu acredito que a jovem Mestra Modera será uma escolha apropriada para substituí-lo."
+  },
+  "RoA_A01_M03_VO_S022_006": {
+    "type": "VO",
+    "unit_id": "MOD",
+    "unit_name": "Modera",
+    "enUS": "Me? I am deeply honored.",
+    "ptBR": "Eu? Sinto-me profundamente honrada."
+  },
+  "RoA_A01_M03_VO_S022_007": {
+    "type": "VO",
+    "unit_id": "DRE",
+    "unit_name": "Drenden",
+    "enUS": "A wise choice.",
+    "ptBR": "Uma escolha sábia."
+  },
+  "RoA_A01_M03_VO_S023_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "All your forces are accounted for?",
+    "ptBR": "Todas as suas tropas foram contabilizadas?"
+  },
+  "RoA_A01_M03_VO_S023_002": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Yes, sir. Lordamere has been fully secured and Lordaeron is better manned than before the siege. And more reinforcements are on their way to Dalaran.",
+    "ptBR": "Sim, senhor. Lordamere foi completamente assegurada, e Lordaeron está mais guarnecida do que antes do cerco. Mais reforços também estão a caminho de Dalaran."
+  },
+  "RoA_A01_M03_VO_S023_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "You’ve done well.",
+    "ptBR": "Você se saiu bem."
+  },
+  "RoA_A01_M03_VO_S023_004": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "There were moments I thought I’d fail…",
+    "ptBR": "Houve momentos em que pensei que iria falhar..."
+  },
+  "RoA_A01_M03_VO_S023_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Have faith. You need to trust yourself. Just as we trust in you. I never doubted you, lad.",
+    "ptBR": "Tenha fé. Você precisa confiar em si mesmo. Assim como confiamos em você. Eu nunca duvidei de você, rapaz."
+  },
+  "RoA_A01_M03_VO_S023_006": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Thank you, sir. What now?",
+    "ptBR": "Obrigado, senhor. E agora?"
+  },
+  "RoA_A01_M03_VO_S023_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "If this region is to be fully safe, we need to restore our control over the southern coasts. Zul’Dare must fall. I’ll take my vanguard and march south on Hillsbrad. You and your forces will remain here and protect our northern flank.",
+    "ptBR": "Se queremos que essa região fique totalmente segura, precisaremos restaurar o controle sobre a costa sul. Zul'Dare deve cair. Eu vou levar minha vanguarda e marchar ao sul, em direção à Eira dos Montes. Você e suas forças vão ficar aqui e proteger nosso flanco norte."
+  },
+  "RoA_A01_M03_VO_S023_008": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Understood. Light be with you, my lord.",
+    "ptBR": "Entendido. Que a Luz esteja com você, meu lorde."
+  }
+}

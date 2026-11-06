@@ -1,0 +1,1304 @@
+{
+  "RoA_A01_M04_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HERO|r\nAnduin Lothar – Supreme Commander of the Grand Alliance. A masterful warrior with devastating frontline prowess.",
+    "ptBR": "|cff8080ffNOVO HERÓI|r\nAnduin Lothar â Comandante Supremo da Grande Aliança. Um guerreiro excepcional, devastador na linha de frente."
+  },
+  "RoA_A01_M04_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW SEMI HERO|r \nMilan, Chronicler of the House of Scribes – A High Elf scribe skilled with sword and bow. Can switch between |cffff0000melee|r and |cff00ff00ranged|r combat for tactical advantage.",
+    "ptBR": "|cff8080ffNOVO SEMI-HERÓI|r\nMilan, Cronista da Casa dos Escribas - Um Alto Elfo escriba proficiente no uso da espada e do arco. Pode alternar entre combate |cffff0000corpo a corpo|r e à |cff00ff00distância|r para uma vantagem tática."
+  },
+  "RoA_A01_M04_MESS_003": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff87ceebREINFORCEMENT|r  \nLord Crowley and a squad of Gilnean forces will follow Anduin Lothar. You cannot control them directly, however, as the Gilneans value their independence.",
+    "ptBR": "|cff87ceebREFORÇOS|r\nLorde Crowley e um destacamento das forças gilneanas seguirão Anduin Lothar. Você não poderá controlá-los diretamente, no entanto, pois os gilneanos prezam por sua independência."
+  },
+  "RoA_A01_M04_MESS_004": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nGilnean Frigates can help you protect your coastline till you build your own destroyers.",
+    "ptBR": "|cff87ceebREFORÇOS|r\nFragatas de Gilneas podem lhe ajudar a proteger o litoral até que você construa os seus próprios destruidores."
+  },
+  "RoA_A01_M04_MESS_005": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nTransports carry your forces across the sea.",
+    "ptBR": "|cffffcc00NOVA TECNOLOGIA DESBLOQUEADA|r\nTransportes podem levar as suas forças através do mar."
+  },
+  "RoA_A01_M04_MESS_006": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r\nGilnean labourers will help Anduin Lothar rebuild Hillsbrad and prepare military infrastructure.",
+    "ptBR": "|cffffcc00TECNOLOGIA SUBSTITUÍDA|r\nTrabalhadores gilneanos vão ajudar Anduin Lothar a reconstruir Eira dos Montes e preparar a infraestrutura militar."
+  },
+  "RoA_A01_M04_MESS_007": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE ALTERATION|r  \nMan at Arms. Seasoned Azerothian veterans capable of dealing multiplied damage when properly trained.  \nWith the Alliance weakened by heavy losses, Anduin Lothar has called upon his reserves, drawing from his most trusted compatriots.",
+    "ptBR": "|cffffcc00TECNOLOGIA SUBSTITUÍDA|r\nHomem de Armas â Veteranos experientes de Azeroth, capazes de causar dano multiplicado quando devidamente treinados.\nCom a Aliança enfraquecida pelas pesadas baixas sofridas, Anduin Lothar convocou suas reservas, recorrendo aos seus companheiros de maior confiança."
+  },
+  "RoA_A01_M04_MESS_008": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nRefineries serve as a drop off point for oil and provide tanker upgrades.",
+    "ptBR": "|cffffcc00NOVA TECNOLOGIA DESBLOQUEADA|r\nRefinarias servem como ponto de descarregamento para o petróleo e oferecem melhorias para os seus petroleiros."
+  },
+  "RoA_A01_M04_MESS_009": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nFoundry. Obsessed with creating the strongest force in the Alliance, human artisans provided Anduin Lothar with designs of the Foundry that can upgrade ships.",
+    "ptBR": "|cffffcc00NOVA TECNOLOGIA DESBLOQUEADA|r\nFundição. Obcecados em criar a força mais poderosa da Aliança, artesãos humanos forneceram a Anduin Lothar projetos para uma Fundição capaz de aprimorar navios."
+  },
+  "RoA_A01_M04_MESS_010": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r  \nFrontal Cannon Shot. With ample oil reserves, your Foundry artisans can now prepare enough explosives to equip your ships with frontal cannons.",
+    "ptBR": "|cffffcc00NOVA TECNOLOGIA DESBLOQUEADA|r\nTiro de Canhão Frontal. Com reservas de petróleo abundantes, os artesãos da Fundição podem preparar explosivos suficientes para equipar os seus navios com canhões frontais."
+  },
+  "RoA_A01_M04_MESS_011": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r  \nMilan is the only semi-hero whose rank increases after completing side quests. Each rank unlocks new abilities, enhances existing ones, and grants bonuses to health and movement speed.",
+    "ptBR": "|cff32cd32DICA|r\nMilan é o único semi-herói cujo nível aumenta ao completar missões secundárias. Cada nível desbloqueia novas habilidades, aprimora as existentes e concede bônus de vida e velocidade de movimento."
+  },
+  "RoA_A01_M04_MESS_012": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff32cd32HINT|r\nOnly Lothar can carry this flag.",
+    "ptBR": "|cff32cd32DICA|r\nApenas Lothar pode carregar essa bandeira."
+  },
+  "RoA_A01_M04_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake Hillsbrad",
+    "ptBR": "Retome Eira dos Montes"
+  },
+  "RoA_A01_M04_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "To drive the Horde from western Lordaeron, their stronghold on the Channel Islands must be destroyed. Retake Hillsbrad, the foothold that anchors their presence, and reclaim the land for the Alliance!",
+    "ptBR": "Para expulsar a Horda do oeste de Lordaeron, é preciso destruir sua fortaleza nas Ilhas do Canal. Retome Eira dos Montes, a posição estratégica que sustenta sua presença na região, e reconquiste essas terras para a Aliança!"
+  },
+  "RoA_A01_M04_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Secure the town.",
+    "ptBR": "Assegure a cidade."
+  },
+  "RoA_A01_M04_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Lothar must survive.",
+    "ptBR": "Lothar deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Lothar must survive.",
+    "ptBR": "Lothar deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive.",
+    "ptBR": "Danath deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive.",
+    "ptBR": "Danath deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Secure the coastline",
+    "ptBR": "Assegure o litoral."
+  },
+  "RoA_A01_M04_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nRetake Hillsbrad\n - Secure the town\n - Danath must survive\n - Lothar must survive",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nRetome Eira dos Montes\n - Assegure a cidade.\n - Danath deve sobreviver\n - Lothar deve sobreviver"
+  },
+  "RoA_A01_M04_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake Hillsbrad\n - |cff808080Secure the town (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nRetome Eira dos Montes\n - |cff808080Assegure a cidade. (Concluído)|r"
+  },
+  "RoA_A01_M04_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake Hillsbrad\n - Secure the coastline\n - Danath must survive\n - Lothar must survive",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nRetome Eira dos Montes\n - Assegure o litoral\n - Danath deve sobreviver\n - Lothar deve sobreviver"
+  },
+  "RoA_A01_M04_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nRetake Hillsbrad",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nRetome Eira dos Montes"
+  },
+  "RoA_A01_M04_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nRetake Hillsbrad\n - |cffff0000Danath must Survive (Failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nRetome Eira dos Montes\n - |cffff0000Danath deve sobreviver. (Fracassado)|r"
+  },
+  "RoA_A01_M04_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nRetake Hillsbrad\n - |cffff0000Lothar must Survive (Failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nRetome Eira dos Montes\n - |cffff0000Lothar deve sobreviver. (Fracassado)|r"
+  },
+  "RoA_A01_M04_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Field Preparations",
+    "ptBR": "Preparativos para a Batalha"
+  },
+  "RoA_A01_M04_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Ready your forces for the coming assault on Zul’dare. Ensure your army is equipped, trained, and prepared for the battles that lie ahead.",
+    "ptBR": "Prepare suas forças para o iminente assalto a Zul'dare. Certifique-se de que seu exército esteja equipado, treinado e pronto para as batalhas que virão."
+  },
+  "RoA_A01_M04_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nPreparations\n - Maintain 12 Archers\n - Maintain 12 Soldiers\n - Maintain 4 Transport Ships\n - Maintain 8 Destroyer Ships",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nPreparações\n - Disponha 12 Arqueiros\n - Disponha 12 Soldados\n - Disponha 4 Navios de Transporte\n - Disponha 8 Destruidores"
+  },
+  "RoA_A01_M04_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 12 Archers.",
+    "ptBR": "Disponha 12 Arqueiros"
+  },
+  "RoA_A01_M04_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 12 Soldiers.",
+    "ptBR": "Disponha 12 Soldados"
+  },
+  "RoA_A01_M04_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 4 Transport Ships.",
+    "ptBR": "Disponha 4 Navios de Transporte"
+  },
+  "RoA_A01_M04_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintain 8 Destroyer Ships.",
+    "ptBR": "Disponha 8 Destruidores"
+  },
+  "RoA_A01_M04_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 12 Soldiers (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nPreparações\n - |cff808080Disponha 12 Soldados (Concluído)|r"
+  },
+  "RoA_A01_M04_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 12 Archers (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nPreparações\n - |cff808080Disponha 12 Arqueiros (Concluído)|r"
+  },
+  "RoA_A01_M04_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 4 Transport Ships (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nPreparações\n - |cff808080Disponha 4 Navios de Transporte (Concluído)|r"
+  },
+  "RoA_A01_M04_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nPreparations",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nPreparações"
+  },
+  "RoA_A01_M04_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nPreparations\n - |cffff0000Your camp is destroyed!|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nPreparações\n - |cffff0000Seu acampamento foi destruído!|r"
+  },
+  "RoA_A01_M04_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nPreparations\n - |cff808080Maintain 8 Destroyer Ships (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nPreparações\n - |cff808080Disponha 8 Destruidores (Concluído)|r"
+  },
+  "RoA_A01_M04_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Oil Deposits",
+    "ptBR": "Depósitos de Petróleo"
+  },
+  "RoA_A01_M04_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "In order to prepare the navy for the assault at Zul'Dare, you will require massive amounts of Oil. Claim the local oil patches and build your Oil Platforms.",
+    "ptBR": "Para preparar a marinha para o assalto a Zul'dare, você precisará de grandes quantidades de petróleo. Tome posse dos depósitos de petróleo locais e construa suas Plataformas de Petróleo."
+  },
+  "RoA_A01_M04_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms.",
+    "ptBR": "Construa 4 Plataformas de Petróleo"
+  },
+  "RoA_A01_M04_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms.",
+    "ptBR": "Construa 4 Plataformas de Petróleo"
+  },
+  "RoA_A01_M04_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nOil Deposits",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r\nDepósitos de Petróleo"
+  },
+  "RoA_A01_M04_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nOil Deposits",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r\nDepósitos de Petróleo"
+  },
+  "RoA_A01_M04_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nOil Deposits\n - Build 4 Oil Plarforms",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO|r\nDepósitos de Petróleo\n - Construa 4 Plataformas de Petróleo"
+  },
+  "RoA_A01_M04_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (1 of 4 built)",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO ATUALIZADO|r\nDepósitos de Petróleo\n - Construa 4 Plataformas de Petróleo (1 de 4 construídas)"
+  },
+  "RoA_A01_M04_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (2 of 4 built)",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO ATUALIZADO|r\nDepósitos de Petróleo\n - Construa 4 Plataformas de Petróleo (2 de 4 construídas)"
+  },
+  "RoA_A01_M04_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nOil Deposits\n - Build 4 Oil Plarforms (3 of 4 built)",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO ATUALIZADO|r\nDepósitos de Petróleo\n - Construa 4 Plataformas de Petróleo (3 de 4 construídas)"
+  },
+  "RoA_A01_M04_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms (1 of 4 built).",
+    "ptBR": "Construa 4 Plataformas de Petróleo (1 de 4 construídas)."
+  },
+  "RoA_A01_M04_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms (2 of 4 built).",
+    "ptBR": "Construa 4 Plataformas de Petróleo (2 de 4 construídas)."
+  },
+  "RoA_A01_M04_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build 4 Oil Plarforms (3 of 4 built).",
+    "ptBR": "Construa 4 Plataformas de Petróleo (3 de 4 construídas)."
+  },
+  "RoA_A01_M04_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Blackrock Remnants",
+    "ptBR": "Remanescentes da Rocha Negra"
+  },
+  "RoA_A01_M04_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Orcish forces linger on the eastern peninsula. Leave none alive and eradicate their presence to secure the region.",
+    "ptBR": "Forças orcs ainda permanecem na península oriental. Não deixe nenhum vivo e erradique sua presença para assegurar a região."
+  },
+  "RoA_A01_M04_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy all orcish forces.",
+    "ptBR": "Destrua todas as forças orcs."
+  },
+  "RoA_A01_M04_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nBlackrock Remnants\n - Destroy all orcish forces",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO|r\nRemanescentes da Rocha Negra\n - Destrua todas as forças orcs"
+  },
+  "RoA_A01_M04_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nBlackrock Remnants",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r\nRemanescentes da Rocha Negra"
+  },
+  "RoA_A01_M04_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nBlackrock Remnants",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r\nRemanescentes da Rocha Negra"
+  },
+  "RoA_A01_M04_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Ghosts of Hillsbrad",
+    "ptBR": "Os Fantasmas de Eira dos Montes"
+  },
+  "RoA_A01_M04_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The unholy presence of orcish necromancers has raised the slain people of Hillsbrad from their graves. Put an end to their suffering and cleanse the land of this dark magic.",
+    "ptBR": "A presença profana dos necromantes orcs fez o povo massacrado de Eira dos Montes levantar-se de suas covas. Ponha fim ao seu sofrimento e purifique esta terra dessa magia negra."
+  },
+  "RoA_A01_M04_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy the corpse piles (0/3)",
+    "ptBR": "Destrua as pilhas de corpos (0/3)"
+  },
+  "RoA_A01_M04_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (0/3)",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO|r\nOs Fantasmas de Eira dos Montes\n - Destrua as pilhas de corpos (0/3)"
+  },
+  "RoA_A01_M04_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nGhosts of Hillsbrad",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO CONCLUÍDO|r\nOs Fantasmas de Eira dos Montes"
+  },
+  "RoA_A01_M04_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (1/3)",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO ATUALIZADO|r\nOs Fantasmas de Eira dos Montes\n - Destrua as pilhas de corpos (1/3)"
+  },
+  "RoA_A01_M04_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST UPDATED|r\nGhosts of Hillsbrad\n - Destroy the corpse piles (2/3)",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO ATUALIZADO|r\nOs Fantasmas de Eira dos Montes\n - Destrua as pilhas de corpos (2/3)"
+  },
+  "RoA_A01_M04_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nGhosts of Hillsbrad",
+    "ptBR": "|cffffcc00OBJETIVO SECUNDÁRIO FRACASSADO|r\nOs Fantasmas de Eira dos Montes"
+  },
+  "RoA_A01_M04_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Zul’dare",
+    "ptBR": "Zulâdare"
+  },
+  "RoA_A01_M04_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The Horde’s naval base on Zul’dare marks the site of their first strike against the kingdom. Lead the attack and show their “Warchief” that the Alliance is coming for him. Leave no orc standing.",
+    "ptBR": "A base naval da Horda, localizada em Zul'dare, marca o local de seu primeiro ataque contra o reino. Lidere o ataque e mostre ao \"Chefe Guerreiro\" deles que a Aliança está vindo atrás dele. Não deixe nenhum orc de pé."
+  },
+  "RoA_A01_M04_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Capture Zul'dare outposts.",
+    "ptBR": "Capture os postos avançados em Zul'dare."
+  },
+  "RoA_A01_M04_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Bloodscribe camp.",
+    "ptBR": "Destrua o acampamento dos Escrivães de Sangue"
+  },
+  "RoA_A01_M04_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Lothar must survive.",
+    "ptBR": "Lothar deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive.",
+    "ptBR": "Danath deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nZul’dare\n - Capture Zul'dare outposts\n - Destroy Bloodscribe camp\n - Lothar must survive\n - Danath must survive",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nZulâdare\n - Capture os postos avançados em Zul'dare\n - Destrua o acampamento dos Escrivães de Sangue\n - Lothar deve sobreviver.\n - Danath deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nZul’dare",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nZulâdare"
+  },
+  "RoA_A01_M04_OBJE_063": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nZul’dare\n - |cffff0000Danath must Survive (Failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nZulâdare\n - |cffff0000Danath deve sobreviver. (Fracassado)|r"
+  },
+  "RoA_A01_M04_OBJE_064": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nZul’dare\n - |cffff0000Lothar must Survive (Failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nZulâdare\n - |cffff0000Lothar deve sobreviver. (Fracassado)|r"
+  },
+  "RoA_A01_M04_OBJE_065": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nZul’dare\n - |cff808080Capture Zul'dare outposts. (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nZulâdare\n - |cff808080Capture os postos avançados em Zul'dare. (Concluído)|r"
+  },
+  "RoA_A01_M04_OBJE_066": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nZul’dare\n - |cff808080Destroy Bloodscribe clan camp. (Completed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL ATUALIZADO|r\nZulâdare\n - |cff808080Destrua o acampamento dos Escrivães de Sangue. (Concluído)|r"
+  },
+  "RoA_A01_M04_OBJE_067": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Utok Scratcher",
+    "ptBR": "Utok Arranhador"
+  },
+  "RoA_A01_M04_OBJE_068": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Utok Scratcher, the Horde’s second-in-command warlord, must be struck down. His death will deal a shattering blow to the Horde, defeat him and turn the tide of battle.",
+    "ptBR": "Utok Arranhador, senhor da guerra e segundo em comando na Horda, precisa ser abatido. Sua morte dará um golpe devastador à Horda; derrote-o e mude o rumo da batalha."
+  },
+  "RoA_A01_M04_OBJE_069": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Defeat Utok Scratcher.",
+    "ptBR": "Derrote Utok Arranhador."
+  },
+  "RoA_A01_M04_OBJE_070": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "At least one of your heroes must survive.",
+    "ptBR": "Ao menos um de seus heróis deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_071": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nUtok Scratcher\n - Defeat Utok Scratcher\n - At least one of your heroes must survive",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nUtok Arranhador\n - Derrote Utok Arranhador.\n - Ao menos um de seus heróis deve sobreviver."
+  },
+  "RoA_A01_M04_OBJE_072": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nUtok Scratcher",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nUtok Arranhador"
+  },
+  "RoA_A01_M04_OBJE_073": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nUtok Scratcher\n - |cffff0000At least one of your heroes must survive (Failed)|r",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nUtok Arranhador\n - |cffff0000Ao menos um de seus heróis deve sobreviver. (Fracassado)|r"
+  },
+  "RoA_A01_M04_OBJE_074": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Secure the Sea",
+    "ptBR": "Assegure o controle do mar"
+  },
+  "RoA_A01_M04_OBJE_075": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The orcish armada near Hillsbrad blocks the path to Zul’dare. Destroy their fleet and clear the waters to allow your forces safe passage.",
+    "ptBR": "A armada orc próxima de Eira dos Montes bloqueia o caminho para Zul'dare. Afunde sua frota e limpe as águas para permitir a passagem segura de suas tropas."
+  },
+  "RoA_A01_M04_OBJE_076": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Find and Destory Orcish Shipyards.",
+    "ptBR": "Encontre e destrua os Estaleiros orcs."
+  },
+  "RoA_A01_M04_OBJE_077": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nSecure the Sea\n - Find and Destory Orcish Shipyards",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL|r\nAssegure o Controle do Mar\n - Encontre e destrua os Estaleiros orcs"
+  },
+  "RoA_A01_M04_OBJE_078": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nSecure the Sea",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL CONCLUÍDO|r\nAssegure o Controle do Mar"
+  },
+  "RoA_A01_M04_OBJE_079": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nSecure the Sea",
+    "ptBR": "|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r\nAssegure o Controle do Mar"
+  },
+  "RoA_A01_M04_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Main Quest Objectives",
+    "ptBR": "Objetivos da Missão"
+  },
+  "RoA_A01_M04_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Remaining enemies:",
+    "ptBR": "Inimigos Restantes:"
+  },
+  "RoA_A01_M04_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Flags to put in a circle:",
+    "ptBR": "Bandeiras restantes para colocar no círculo:"
+  },
+  "RoA_A01_M04_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Flags to put in a circle:",
+    "ptBR": "Bandeiras restantes para colocar no círculo:"
+  },
+  "RoA_A01_M04_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Remaining enemies:",
+    "ptBR": "Inimigos Restantes:"
+  },
+  "RoA_A01_M04_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Archers:",
+    "ptBR": "Arqueiros sob seu comando:"
+  },
+  "RoA_A01_M04_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Soldiers:",
+    "ptBR": "Soldados sob seu comando:"
+  },
+  "RoA_A01_M04_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Transports:",
+    "ptBR": "Transportes sob seu comando:"
+  },
+  "RoA_A01_M04_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Maintained Destroyers:",
+    "ptBR": "Destruidores sob seu comando:"
+  },
+  "RoA_A01_M04_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy Bloodscribe camp!",
+    "ptBR": "Destrua o acampamento dos Escrivães de Sangue!"
+  },
+  "RoA_A01_M04_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Utok's sanctuary lasts for:",
+    "ptBR": "O santuário de Utok dura:"
+  },
+  "RoA_A01_M04_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "To be Continued...",
+    "ptBR": "Continua..."
+  },
+  "RoA_A01_M04_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Act II \"Khaz Modan\" currently in development. Stay tuned for upcoming acts!",
+    "ptBR": "O Ato II, \"Khaz Modan\", está atualmente em desenvolvimento. Fique ligado nos próximos atos!"
+  },
+  "RoA_A01_M04_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "We are approaching Hillsbrad, my lord.",
+    "ptBR": "Estamos nos aproximando de Eira dos Montes, meu lorde."
+  },
+  "RoA_A01_M04_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "This town marks the site where the greenskins first unleashed their true barbarity on the lands of Lordaeron. And it still reeks of death and decay.",
+    "ptBR": "Esta cidade marca o local onde os peles-verdes desencadearam pela primeira vez sua verdadeira barbárie sobre as terras de Lordaeron. E ainda fede de morte e podridão."
+  },
+  "RoA_A01_M04_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Lordaeron… but not the first time for humanity. The Horde is a blight that seeks to turn the entire continent into burning cinders…",
+    "ptBR": "Lordaeron, sim... mas não foi a primeira vez para a humanidade. A Horda é uma praga que quer transformar o continente inteiro em cinzas..."
+  },
+  "RoA_A01_M04_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "I am ready to face them! Both my sword and bow thirst for orcish blood!",
+    "ptBR": "Eu estou pronto para enfrenta-los! Minha espada e meu arco anseiam por sangue orc!"
+  },
+  "RoA_A01_M04_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Lord Crowley is approaching Hillsbrad from the west. He’s ready to join us when we give the signal. Whatever awaits us there, we must retake Hillsbrad. Danath, sound the attack. Wilhelm, with me!",
+    "ptBR": "Lorde Crowley está se aproximando de Eira dos Montes pelo oeste. Ele se unirá a nós assim que dermos o sinal. Seja o que nos aguarde lá, nós precisamos retomar Eira dos Montes. Danath, dê o sinal de ataque. Wilhelm, comigo!"
+  },
+  "RoA_A01_M04_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Soldiers! Form a line!",
+    "ptBR": "Soldados! Formem uma linha!"
+  },
+  "RoA_A01_M04_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "The Magistrate of Hillsbrad. Not even gold saved the bastard, and his folly cost Meryn his life.",
+    "ptBR": "O Magistrado de Eira dos Montes. Nem o ouro salvou o miserável, e sua tolice custou a vida de Meryn."
+  },
+  "RoA_A01_M04_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "So many corpses... The entire town has been slaughtered.",
+    "ptBR": "Tantos cadáveres... A cidade inteira foi massacrada."
+  },
+  "RoA_A01_M04_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Too quiet… We've only faced scattered patrols. Where are the rest of their forces?",
+    "ptBR": "Está quieto demais... nós só enfrentamos patrulhas isoladas. Onde está o restante das forças deles?"
+  },
+  "RoA_A01_M04_VO_S002_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Stay vigilant. We must be ready for anything.",
+    "ptBR": "Fiquem de olhos abertos. Nós precisamos estar prontos para qualquer coisa."
+  },
+  "RoA_A01_M04_VO_S002_005": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "Ambush!",
+    "ptBR": "Emboscada!"
+  },
+  "RoA_A01_M04_VO_S002_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Danath, sound the signal to our allies!",
+    "ptBR": "Danath, dê o sinal aos nossos aliados!"
+  },
+  "RoA_A01_M04_VO_S002_007": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Soldiers! The Lion of Azeroth calls! To battle!",
+    "ptBR": "Soldados! O Leão de Azeroth chama! àbatalha!"
+  },
+  "RoA_A01_M04_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "My lord, the orc forces have been destroyed. The town is secured…",
+    "ptBR": "Meu lorde, as forças orcs foram eliminadas. A cidade está segura..."
+  },
+  "RoA_A01_M04_VO_S003_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "And in bad shape. The naval facilities have been completely destroyed. We must rebuild them and prepare an assault force before Zul'Dare can be taken.",
+    "ptBR": "E em péssimo estado. As instalações navais foram completamente destruídas. Nós precisamos reconstruí-las e preparar uma força de ataque antes que Zul'dare possa ser retomada."
+  },
+  "RoA_A01_M04_VO_S003_003": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "We have to harvest and refine oil for our ships as well. There might be troll destroyers in the nearby waters.",
+    "ptBR": "Nós precisamos coletar e refinar petróleo para os nossos navios também. Podem haver destruidores trolls nas águas próximas."
+  },
+  "RoA_A01_M04_VO_S003_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Aye. Scout the area for any enemy ships, build up our naval infrastructure, and ready our forces for battle. You have your orders, men!",
+    "ptBR": "Sim. Vasculhem a área por qualquer navio inimigo, construam nossas instalações navais e preparem nossas forças para batalha. Vocês têm suas ordens, homens!"
+  },
+  "RoA_A01_M04_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Commander, our scouts confirm that orcish vessels are patrolling the coastline.",
+    "ptBR": "Comandante, nossos batedores confirmaram que embarcações orc estão patrulhando o litoral."
+  },
+  "RoA_A01_M04_VO_S004_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "These waters must be cleansed if we are to secure our perimeter.",
+    "ptBR": "Precisamos livrar estas águas do inimigo se quisermos assegurar nosso perímetro."
+  },
+  "RoA_A01_M04_VO_S004_003": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "You heard the man! Ready the sails!",
+    "ptBR": "Vocês ouviram o homem! Preparem as velas!"
+  },
+  "RoA_A01_M04_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "My lord, some orcish forces remain entrenched along the eastern shore.",
+    "ptBR": "Meu lorde, algumas forças orcs estão entrincheiradas ao longo da margem leste."
+  },
+  "RoA_A01_M04_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Then let’s destroy them. We cannot prepare our invasion force with our rear exposed.",
+    "ptBR": "Então vamos acabar com eles. Nós não podemos preparar nossa força de invasão com o nosso flanco exposto."
+  },
+  "RoA_A01_M04_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "Sir Lothar, the dead are attacking us!",
+    "ptBR": "Senhor Lothar, os mortos estão nos atacando!"
+  },
+  "RoA_A01_M04_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "How deplorable. Where did these wretches come from?",
+    "ptBR": "Que deplorável. De onde vieram esses miseráveis?"
+  },
+  "RoA_A01_M04_VO_S006_003": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "I sense the vile stain of necromancy. The victims of the orcish slaughter find no rest.",
+    "ptBR": "Sinto a vil mácula da necromancia. As vítimas do massacre dos orcs não encontram descanso."
+  },
+  "RoA_A01_M04_VO_S006_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Then we must find their bodies, consecrate them, and grant them the peace they deserve.",
+    "ptBR": "Então devemos encontrar seus cadáveres, consagrá-los e conceder-lhes o descanso que merecem."
+  },
+  "RoA_A01_M04_VO_S006_005": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "I’ll see to it personally. For the Light!",
+    "ptBR": "Eu cuidarei disso pessoalmente. Pela Luz!"
+  },
+  "RoA_A01_M04_VO_S006_006": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "May the dead find solace in the hereafter.",
+    "ptBR": "Que os mortos encontrem consolo no além."
+  },
+  "RoA_A01_M04_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Oh Meryn…",
+    "ptBR": "Oh, Merynâ¦"
+  },
+  "RoA_A01_M04_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "My lord, preparations have been made. Our forces are ready.",
+    "ptBR": "Meu lorde, os preparativos foram feitos. Nossas forças estão prontas."
+  },
+  "RoA_A01_M04_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Very well. Gavinrad, I want you to stay behind and defend Hillsbrad from any possible incursion — and keep an eye on our elven friend.",
+    "ptBR": "Muito bem. Gavinrad, eu quero que você fique aqui e defenda Eira dos Montes de qualquer incursão - e fique de olho no nosso amigo élfico."
+  },
+  "RoA_A01_M04_VO_S008_003": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "I’ll keep Hillsbrad safe, my lord commander.",
+    "ptBR": "Eu manterei Eira dos Montes segura, meu lorde comandante."
+  },
+  "RoA_A01_M04_VO_S008_004": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "Am I not to join the final assault?",
+    "ptBR": "Não participarei do ataque final a Zul'Dare?"
+  },
+  "RoA_A01_M04_VO_S008_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Your skills are needed here in Hillsbrad, elf. We shall reconvene once our task is done.",
+    "ptBR": "Suas habilidades são requeridas aqui em Eira dos Montes, elfo. Nós nos reuniremos novamente assim que nossa tarefa estiver concluída."
+  },
+  "RoA_A01_M04_VO_S008_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Danath, you will lead the vanguard. Wilhelm, you’ll remain at my side. Lord Crowley…",
+    "ptBR": "Danath, você liderará a vanguarda. Wilhelm, você ficará do meu lado. Lorde Crowley..."
+  },
+  "RoA_A01_M04_VO_S008_007": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "Yes, I’ll see to it we reach Zul’Dare in one piece.",
+    "ptBR": "Sim. Eu me certificarei de que chegaremos a Zul'Dare sãos e salvos."
+  },
+  "RoA_A01_M04_VO_S008_008": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Time to bash more greenskin skulls.",
+    "ptBR": "Hora de esmagar mais alguns crânios dos peles-verdes."
+  },
+  "RoA_A01_M04_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Some time later, Alliance ships entered the waters of the Channel Islands.",
+    "ptBR": "Algum tempo depois, os navios da Aliança entraram nas águas das Ilhas do Canal."
+  },
+  "RoA_A01_M04_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "LDC",
+    "unit_name": "Lord Darius Crowley",
+    "enUS": "As we navigate through the Channel Islands, the shores of Zul’Dare draw near. Our destination is within sight.",
+    "ptBR": "Enquanto navegamos pelas Ilhas do Canal, as costas de Zul'dare se aproximam. Nosso destino já está à vista."
+  },
+  "RoA_A01_M04_VO_S009_003": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "Captain, you have both eyes in place — tell me, what's that brown spot in the fog?",
+    "ptBR": "Capitão, Capitão, você que tem os dois olhos - diga-me, o que é aquele ponto marrom na neblina?"
+  },
+  "RoA_A01_M04_VO_S009_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "A troll destroyer ship. Seems like we’re going to have a naval fight.",
+    "ptBR": "Um destruidor troll. Parece que teremos uma batalha naval."
+  },
+  "RoA_A01_M04_VO_S009_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Good thing we were wise enough to build and prepare our own ships — weren’t we?",
+    "ptBR": "Ainda bem que tivemos a prudência para construir e preparar nossos próprios navios - não é mesmo?"
+  },
+  "RoA_A01_M04_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "No sign of Doomhammer. But these banners… I don’t recognize them.",
+    "ptBR": "Nenhum sinal do Martelo da Perdição. Mas essas bandeiras... eu não as reconheço"
+  },
+  "RoA_A01_M04_VO_S010_002": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "These wretched orcs are forcing us to work day and night!",
+    "ptBR": "Esses malditos orcs estão nos forçando a trabalhar dia e noite!"
+  },
+  "RoA_A01_M04_VO_S010_003": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Damn the orcs!",
+    "ptBR": "Malditos sejam os orcs!"
+  },
+  "RoA_A01_M04_VO_S010_004": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Thank you, sire!",
+    "ptBR": "Obrigado, senhor!"
+  },
+  "RoA_A01_M04_VO_S010_005": {
+    "type": "VO",
+    "unit_id": "MAA",
+    "unit_name": "Man at Arms",
+    "enUS": "My sword is yours!",
+    "ptBR": "Minha espada está à sua disposição!"
+  },
+  "RoA_A01_M04_VO_S010_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "They tortured the soldiers we sent here a year ago… We will make them pay for this.",
+    "ptBR": "Eles torturaram os soldados que enviamos para cá há um ano... Eles pagarão por isso."
+  },
+  "RoA_A01_M04_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That’s their main camp.",
+    "ptBR": "Esse é o acampamento principal deles."
+  },
+  "RoA_A01_M04_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Burn it to the ground. The main orc in the fortress will be left without resources.",
+    "ptBR": "Queime até virar cinzas. O chefe da fortaleza ficará sem recursos."
+  },
+  "RoA_A01_M04_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "By the authority of the Alliance of Lordaeron, I order you — open this gate and surrender your weapons!",
+    "ptBR": "Pela autoridade da Aliança de Lordaeron, eu lhe ordeno â abra esse portão e entregue suas armas!"
+  },
+  "RoA_A01_M04_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "You! I remember you.",
+    "ptBR": "Você! Eu me lembro de você"
+  },
+  "RoA_A01_M04_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "We are the Bloodscribe Clan! The Warchief has tasked us with protecting this island — and we shall! Your deaths will be a fitting sacrifice in his name!",
+    "ptBR": "Nós somos o Clã Escrivães de Sangue! O Chefe Guerreiro nos encarregou de proteger esta ilha â e assim faremos! Suas mortes serão um sacrifício digno em nome dele!"
+  },
+  "RoA_A01_M04_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Empty words, orc! We have destroyed your forces!",
+    "ptBR": "Palavras vazias, orc! Nós eliminamos as suas forças!"
+  },
+  "RoA_A01_M04_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Yes… and you’ve thrown away your soldiers like kindling on a dying fire. That pathetic line behind the gate? They won’t save you — not when I’m standing over your shattered skull!",
+    "ptBR": "Sim... e você desperdiçou seus soldados como lenha lançada a um fogo que está se apagando. Aquela linha patética atrás do portão? Eles não vão salvá-lo â não quando eu estiver de pé sobre o seu crânio estilhaçado!"
+  },
+  "RoA_A01_M04_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Shut up, orc! You’d better save your breath for when we cross blades!",
+    "ptBR": "Cale a boca, orc! àmelhor guardar o fôlego para quando cruzarmos as espadas!"
+  },
+  "RoA_A01_M04_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "The gates are shut. Wilhelm! Danath! Charge!",
+    "ptBR": "Os portões se fecharam. Wilhelm! Danath! Ataquem!"
+  },
+  "RoA_A01_M04_VO_S012_008": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "For Azeroth!",
+    "ptBR": "Por Azeroth!"
+  },
+  "RoA_A01_M04_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "I was at the Warchief’s side in all his battles! I know his strategies — you can’t outsmart me!",
+    "ptBR": "Lutei ao lado do Chefe Guerreiro em todas as suas batalhas! Conheço suas estratégias... Você não vai me superar!"
+  },
+  "RoA_A01_M04_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I can leap to the archers on the wall. Danath, take care of the grunts down here.",
+    "ptBR": "Eu posso pular até os arqueiros nas muralhas. Danath, cuide dos soldados aqui embaixo."
+  },
+  "RoA_A01_M04_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "You think it’s easy to defeat and kill me? Bloodscribes — attack!",
+    "ptBR": "Você acha que pode me derrotar e me matar tão facilmente? Escrivões de Sangue - ataquem!"
+  },
+  "RoA_A01_M04_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "For Doomhammer! For the Bloodscribe Clan!",
+    "ptBR": "Pelo Martelo da Perdição! Pelo Clã Escrivães de Sangue!"
+  },
+  "RoA_A01_M04_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Stromgarde, Lordaeron, Quel’Thalas— I saw them all burn! What chance do you have?!",
+    "ptBR": "Stromgarde, Lordaeron, QuelâThalasâ Eu vi todas elas queimarem! Que chance você acha que tem?!"
+  },
+  "RoA_A01_M04_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Argh… I’m grievously wounded… I can’t continue the fight, my lord…",
+    "ptBR": "Arghâ¦ estou gravemente ferido... não consigo lutar mais, meu lorde..."
+  },
+  "RoA_A01_M04_VO_S014_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I’m badly wounded… You need to finish this without my aid, lad…",
+    "ptBR": "Estou gravemente ferido... Você terá que terminar isso sem minha ajuda, rapaz..."
+  },
+  "RoA_A01_M04_VO_S014_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I can use that flagpole to jump from the wall.",
+    "ptBR": "Posso usar aquele mastro para saltar da muralha."
+  },
+  "RoA_A01_M04_VO_S015_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Wilhelm! No…",
+    "ptBR": "Wilhelm! Nãoâ¦"
+  },
+  "RoA_A01_M04_VO_S015_002": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "We have you cornered, orc. There’s no point in fighting back now. Surrender — and tell me, where’s your Warchief?!",
+    "ptBR": "Você está encurralado, orc. Não adianta mais resistir. Renda-se - e diga-me, onde está o seu Chefe Guerreiro?!"
+  },
+  "RoA_A01_M04_VO_S015_003": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "You think I have no honor? That I would betray my people?! Lok’tar ogar!",
+    "ptBR": "Você acha que eu não tenho honra? Que eu trairia o meu povo?! Lokâtar ogar!"
+  },
+  "RoA_A01_M04_VO_S015_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Any last words, beast?",
+    "ptBR": "Suas últimas palavras, besta?"
+  },
+  "RoA_A01_M04_VO_S015_005": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Kiss my boots, human!",
+    "ptBR": "Beije minhas botas, humano imundo!"
+  },
+  "RoA_A01_M04_VO_S015_006": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "So be it…",
+    "ptBR": "Que assim seja..."
+  },
+  "RoA_A01_M04_VO_S015_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "In the name of King Trollbane and the Kingdom of Stromgarde — for the crimes you committed against my people… my family… I hereby sentence you to die.",
+    "ptBR": "Em nome do Rei Matatroll e do Reino de Stromgarde - pelos crimes que cometeu contra meu povo... minha família... eu o condeno à morte."
+  },
+  "RoA_A01_M04_VO_S015_008": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "For my father…",
+    "ptBR": "Pelo meu pai..."
+  },
+  "RoA_A01_M04_VO_S016_001": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Our work here is finished. Gather the wounded, and let us return to Hillsbrad.",
+    "ptBR": "Nosso trabalho aqui terminou. Reúnam os feridos e vamos retornar à Eira dos Montes."
+  },
+  "RoA_A01_M04_VO_S017_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Next morning, Anduin Lothar and Danath Trollbane reached Hillsbrad.",
+    "ptBR": "Na manhã seguinte, Anduin Lothar e Danath Matatroll chegaram a Eira dos Montes."
+  },
+  "RoA_A01_M04_VO_S017_002": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "Wilhelm and Meryn were laid to rest near the town, their sacrifice honored so that their heroism would be remembered for generations.",
+    "ptBR": "Wilhelm e Meryn foram sepultados perto da cidade, e seus sacrifícios foram honrados para que seu heroísmo fosse lembrado por gerações."
+  },
+  "RoA_A01_M04_VO_S017_003": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "He has fallen in battle… gave his life for Azeroth — for me. He was a brave lad, an able soldier, and a loyal man. Much like Meryn. We must remember them as such.",
+    "ptBR": "Ele morreu em combate... Deu sua vida por Azeroth e por mim. Ele foi um rapaz corajoso, um soldado capaz e um homem leal. Muito parecido com Meryn. Devemos lembrá-los assim."
+  },
+  "RoA_A01_M04_VO_S017_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "What now, commander?",
+    "ptBR": "E agora, comandante?"
+  },
+  "RoA_A01_M04_VO_S017_005": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "I need to ride north — to rendezvous with Turalyon and confer with the High Command. Someone needs to check on those damned royals. And there’s an old acquaintance of mine I have to meet…",
+    "ptBR": "Eu preciso viajar para o norte - para me encontrar com Turalyon e discutir com o Alto Comando. Alguém precisa verificar a situação daqueles malditos membros da realeza. E há um velho conhecido meu com quem preciso me encontrar..."
+  },
+  "RoA_A01_M04_VO_S017_006": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Whom?",
+    "ptBR": "Quem?"
+  },
+  "RoA_A01_M04_VO_S017_007": {
+    "type": "VO",
+    "unit_id": "ALO",
+    "unit_name": "Anduin Lothar",
+    "enUS": "Don’t worry about it. You’ll hear from me soon enough. In the meantime, gather your forces and get some rest. You’ll need it — there’s a lot of work to do…",
+    "ptBR": "Não se preocupe. Você terá notícias minhas em breve. Por enquanto, reúna suas forças e descanse um pouco. Você vai precisar â ainda há muito trabalho pela frente..."
+  }
+}
