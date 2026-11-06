@@ -487,7 +487,7 @@ WC2Human04Wilhelm_Intro01
 STRING 2448
 // Items: IL02 (WC2Human04Danath_Intro01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2450
@@ -529,7 +529,7 @@ WC2Human04Lothar_Intro01
 STRING 2460
 // Items: IL06 (WC2Human04Danath_Intro02), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2462
@@ -541,7 +541,7 @@ WC2Human04Danath_Intro02
 STRING 2463
 // Items: IL07 (WC2Human04Crowley_Appears01), Tip (Tooltip - Basic)
 {
-Lord Darius Crowley
+Lorde Darius Crowley
 }
 
 STRING 2465
@@ -583,7 +583,7 @@ WC2Human04Lothar_Hillsbrad01
 STRING 2472
 // Items: IL10 (WC2Human04Crowley_Hillsbrad01), Tip (Tooltip - Basic)
 {
-Lord Darius Crowley
+Lorde Darius Crowley
 }
 
 STRING 2474
@@ -625,7 +625,7 @@ WC2Human04Wilhelm_Zombies01
 STRING 2481
 // Items: IL13 (WC2Human04Milan_Zombies01), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan, o Escriba
 }
 
 STRING 2482
@@ -643,7 +643,7 @@ WC2Human04Milan_Zombies01
 STRING 2484
 // Items: IL03 (WC2Human04Gavinrad_Intro01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 2486
@@ -667,7 +667,7 @@ WC2Human04Lothar_Zombies01
 STRING 2490
 // Items: IL15 (WC2Human04Gavinrad_Zombies01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 2491
@@ -685,7 +685,7 @@ WC2Human04Gavinrad_Zombies02
 STRING 2493
 // Items: IL16 (WC2Human04Gavinrad_Zombies02), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 2495
@@ -793,7 +793,7 @@ WC2Human04Lothar_Prepare01
 STRING 2514
 // Items: IL17 (WC2Human04Gavinrad_Zombies03), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 2515
@@ -811,7 +811,7 @@ WC2Human04Gavinrad_Prepare01
 STRING 2517
 // Items: IL25 (WC2Human04Milan_Prepare01), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan, o Escriba
 }
 
 STRING 2518
@@ -859,7 +859,7 @@ WC2Human04Lothar_Prepare03
 STRING 2526
 // Items: IL28 (WC2Human04Crowley_Prepare01), Tip (Tooltip - Basic)
 {
-Lord Darius Crowley
+Lorde Darius Crowley
 }
 
 STRING 2527
@@ -877,7 +877,7 @@ WC2Human04Crowley_Prepare01
 STRING 2529
 // Items: IL29 (WC2Human04Danath_Prepare01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2530
@@ -985,7 +985,7 @@ WC2Human04Lothar_Zuldare02
 STRING 2553
 // Items: IL37 (WC2Human04Utok_Bossfight01), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2555
@@ -997,7 +997,7 @@ WC2Human04Utok_Bossfight01
 STRING 2556
 // Items: IL38 (WC2Human04Utok_Bossfight02), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2557
@@ -1015,7 +1015,7 @@ WC2Human04Utok_Bossfight02
 STRING 2559
 // Items: IL39 (WC2Human04Utok_Bossfight03), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2561
@@ -1027,7 +1027,7 @@ WC2Human04Utok_Bossfight03
 STRING 2562
 // Items: IL40 (WC2Human04Danath_Zuldare01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2564
@@ -1051,7 +1051,7 @@ WC2Human04Lothar_Outro01
 STRING 2568
 // Items: IL42 (WC2Human04Utok_Outro01), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2569
@@ -1069,7 +1069,7 @@ WC2Human04Utok_Outro01
 STRING 2571
 // Items: IL43 (WC2Human04Danath_Outro01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2572
@@ -1087,7 +1087,7 @@ WC2Human04Danath_Outro01
 STRING 2574
 // Items: IL44 (WC2Human04Utok_Outro02), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2576
@@ -1099,7 +1099,7 @@ WC2Human04Utok_Outro02
 STRING 2577
 // Items: IL45 (WC2Human04Danath_Outro02), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2579
@@ -1129,7 +1129,7 @@ WC2Human04Lothar_Outro02
 STRING 2583
 // Items: IL24 (WC2Human04Gavinrad_Prepare01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 2585
@@ -1350,12 +1350,12 @@ Destrua o acampamento dos Escrivães de Sangue
 
 STRING 2702
 {
-Lothar must survive.
+Lothar deve sobreviver.
 }
 
 STRING 2703
 {
-Danath must survive.
+Danath deve sobreviver.
 }
 
 STRING 2708
@@ -1744,7 +1744,7 @@ Assegure o litoral.
 
 STRING 2816
 {
-Remaining enemies:
+Inimigos Restantes:
 }
 
 STRING 2817
@@ -1767,7 +1767,7 @@ Capture os postos avançados em Zul'dare.
 
 STRING 2820
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2821
@@ -1842,7 +1842,7 @@ O santuário de Utok dura:
 STRING 2842
 // Items: IL55 (WC2Human04Utok_Zuldare02), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2843
@@ -1854,7 +1854,7 @@ Lutei ao lado do Chefe Guerreiro em todas as suas batalhas! Conheço suas estrat
 STRING 2844
 // Items: IL56 (WC2Human04Utok_Bossfight04), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 2848
@@ -1890,7 +1890,7 @@ Eu posso pular até os arqueiros nas muralhas. Danath, cuide dos soldados aqui e
 STRING 2860
 // Items: IL60 (WC2Human04Danath_Bossfight01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2861
@@ -1976,7 +1976,7 @@ Bandeiras restantes para colocar no círculo:
 
 STRING 2878
 {
-Flags to put in a circle:
+Bandeiras restantes para colocar no círculo:
 }
 
 STRING 2879
@@ -2059,7 +2059,7 @@ WC2Human04Lothar_Bossfight03
 STRING 2909
 // Items: IL65 (WC2Human04Danath_Landing01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2913
@@ -2089,7 +2089,7 @@ Queime até virar cinzas. O chefe da fortaleza ficará sem recursos.
 STRING 2921
 // Items: IL66 (WC2Human04Danath_Prepare02), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2923
@@ -2107,7 +2107,7 @@ Soldados! O Leão de Azeroth chama! àbatalha!
 STRING 2925
 // Items: IL70 (WC2Human04Danath_Remnants01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2927
@@ -2149,7 +2149,7 @@ WC2Human04Lothar_Remnants01
 STRING 2937
 // Items: IL73 (WC2Human04Danath_Ambush01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2939
@@ -2185,7 +2185,7 @@ WC2Human04Milan_Ambush01
 STRING 2946
 // Items: IL80 (WC2Human04Danath_Whisper_Outro02), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 2947
@@ -2418,7 +2418,7 @@ WC2Human04Lothar_Outro02A
 STRING 3045
 // Items: IL76 (WC2Human02Prisoner02), Tip (Tooltip - Basic)
 {
-Prisoner
+Prisioneiro
 }
 
 STRING 3046
@@ -2436,7 +2436,7 @@ WC2Human02Prisoner02
 STRING 3048
 // Items: IL77 (WC2Human02Prisoner04), Tip (Tooltip - Basic)
 {
-Prisoner
+Prisioneiro
 }
 
 STRING 3049
@@ -2454,7 +2454,7 @@ WC2Human02Prisoner04
 STRING 3051
 // Items: IL78 (WC2Human02Prisoner03), Tip (Tooltip - Basic)
 {
-Prisoner
+Prisioneiro
 }
 
 STRING 3052
@@ -2895,7 +2895,7 @@ Construa 4 Plataformas de Petróleo (3 de 4 construídas).
 
 STRING 3138
 {
-Build 4 Oil Plarforms.
+Construa 4 Plataformas de Petróleo
 }
 
 STRING 3139
@@ -2957,19 +2957,19 @@ STRING 3155
 STRING 3156
 // Items: IL51 (WC2Human04Gavinrad_Outro01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 3157
 // Items: IL71 (WC2Human04Gavinrad_Ambush01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 3158
 // Items: IL79 (WC2Human02Defender01), Tip (Tooltip - Basic)
 {
-Man at Arms
+Homem de Armas
 }
 
 STRING 3159

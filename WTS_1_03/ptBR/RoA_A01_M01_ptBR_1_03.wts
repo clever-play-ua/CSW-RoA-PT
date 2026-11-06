@@ -283,7 +283,7 @@ STRING 2960
 STRING 2961
 // Units: n00N (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Edificio da Cidade de Lordaeron
 }
 
 STRING 2962
@@ -295,7 +295,7 @@ STRING 2962
 STRING 2963
 // Units: n00O (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Edificio da Cidade de Lordaeron
 }
 
 STRING 2964
@@ -307,13 +307,13 @@ STRING 2964
 STRING 2965
 // Units: n00P (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Edificio da Cidade de Lordaeron
 }
 
 STRING 2966
 // Units: n00Q (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Edificio da Cidade de Lordaeron
 }
 
 STRING 2967
@@ -325,7 +325,7 @@ STRING 2967
 STRING 2968
 // Units: n00R (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Edificio da Cidade de Lordaeron
 }
 
 STRING 2969
@@ -337,7 +337,7 @@ STRING 2969
 STRING 2970
 // Units: n00S (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Edificio da Cidade de Lordaeron
 }
 
 STRING 3027
@@ -355,7 +355,7 @@ Guard Tower (|cffffcc00G|r)
 STRING 3030
 // Units: hLgF (Lordaeron Guard Tower), Name (Name)
 {
-Lordaeron Guard Tower
+Torre de Guarda de Lordaeron
 }
 
 STRING 3080
@@ -699,12 +699,12 @@ O Herdeiro do Rei
 
 STRING 3794
 {
-Terenas must survive
+Terenas deve sobreviver
 }
 
 STRING 3795
 {
-Uther must survive
+Uther deve sobreviver
 }
 
 STRING 3797
@@ -1011,7 +1011,7 @@ WC2Human01Terenas05
 STRING 3870
 // Items: IL09 (WC2Human01Muradin01), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3872
@@ -1023,7 +1023,7 @@ WC2Human01Muradin01
 STRING 3873
 // Items: IL10 (WC2Human01Muradin02), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3875
@@ -1035,7 +1035,7 @@ WC2Human01Muradin02
 STRING 3876
 // Items: IL11 (WC2Human01Muradin03), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3878
@@ -1095,7 +1095,7 @@ WC2Human01Terenas06
 STRING 3888
 // Items: IL15 (WC2Human01Muradin04), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3890
@@ -1245,7 +1245,7 @@ WC2Human01Turalyon05
 STRING 3921
 // Items: IL26 (WC2Human01Muradin05), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3923
@@ -1257,7 +1257,7 @@ WC2Human01Muradin05
 STRING 3924
 // Items: IL27 (WC2Human01Kurdran01), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 3926
@@ -1287,7 +1287,7 @@ WC2Human01Uther08
 STRING 3930
 // Items: IL29 (WC2Human01Kurdran02), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 3932
@@ -1317,7 +1317,7 @@ WC2Human01Turalyon06
 STRING 3936
 // Items: IL31 (WC2Human01Kurdran03), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 3937
@@ -1359,7 +1359,7 @@ WC2Human01Turalyon07
 STRING 3945
 // Items: IL34 (WC2Human01Kurdran04), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 3947
@@ -1389,7 +1389,7 @@ WC2Human01Uther10
 STRING 3951
 // Items: IL36 (WC2Human01Muradin06), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3952
@@ -1407,7 +1407,7 @@ WC2Human01Muradin06
 STRING 3954
 // Items: IL37 (WC2Human01Kurdran05), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 3955
@@ -1425,7 +1425,7 @@ WC2Human01Kurdran05
 STRING 3957
 // Items: IL38 (WC2Human01Muradin07), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3959
@@ -1437,7 +1437,7 @@ WC2Human01Muradin07
 STRING 3960
 // Items: IL39 (WC2Human01Kurdran06), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 3961
@@ -1509,7 +1509,7 @@ WC2Human01Turalyon08
 STRING 3975
 // Items: IL44 (WC2Human01Muradin08), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3976
@@ -1545,7 +1545,7 @@ WC2Human01Uther12
 STRING 3981
 // Items: IL46 (WC2Human01Muradin09), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 3983
@@ -1569,7 +1569,7 @@ WC2Human01Uther13
 STRING 3987
 // Items: IL48 (WC2Human01Kurdran07), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 3989
@@ -1581,7 +1581,7 @@ WC2Human01Kurdran07
 STRING 3990
 // Items: IL49 (WC2Human01Utok01), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 3991
@@ -1617,7 +1617,7 @@ WC2Human01Tharbek01
 STRING 3996
 // Items: IL51 (WC2Human01Orgrim01), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Orgrim Martelo da Perdição
 }
 
 STRING 3998
@@ -1641,7 +1641,7 @@ WC2Human01Tharbek02
 STRING 4002
 // Items: IL53 (WC2Human01Orgrim02), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Orgrim Martelo da Perdição
 }
 
 STRING 4004
@@ -1653,7 +1653,7 @@ WC2Human01Orgrim02
 STRING 4005
 // Items: IL54 (WC2Human01Utok02), Tip (Tooltip - Basic)
 {
-Utok Scratcher
+Utok Arranhador
 }
 
 STRING 4006
@@ -1689,7 +1689,7 @@ WC2Human01Tharbek03
 STRING 4011
 // Items: IL56 (WC2Human01Orgrim03), Tip (Tooltip - Basic)
 {
-Orgrim Doomhammer
+Orgrim Martelo da Perdição
 }
 
 STRING 4013
@@ -1773,7 +1773,7 @@ WC2Human01Derek03
 STRING 4032
 // Items: IL63 (WC2Human01Kurdran08), Tip (Tooltip - Basic)
 {
-Kurdran Wildhammer
+Kurdran Martelo Feroz
 }
 
 STRING 4034
@@ -1839,7 +1839,7 @@ WC2Human01Terenas11
 STRING 4050
 // Items: IL69 (WC2Human01Muradin10), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 4051
@@ -2108,7 +2108,7 @@ C
 STRING 4111
 // Units: oCsM (Catapult), Name (Name)
 {
-Catapult
+Catapulta
 }
 
 STRING 4112
@@ -2443,7 +2443,7 @@ Retome a ala Oeste
 
 STRING 4194
 {
-Remaining enemies:
+Inimigos restantes:
 }
 
 STRING 4196
@@ -2453,7 +2453,9 @@ Alguns civis estão soterrados sob os escombros. Resgate-os antes que seja tarde
 
 STRING 4198
 {
-All Heroes must survive
+|cffffcc00OBJETIVO PRINCIPAL FRACASSADO|r
+Libertação da Ilha de Fenris
+ - |cffff0000Todos os Heróis devem sobreviver (Fracassado)|r
 }
 
 STRING 4201
@@ -2468,12 +2470,12 @@ Cidadões de Lordaeron
 
 STRING 4203
 {
-Remaining enemies:
+Inimigos restantes:
 }
 
 STRING 4205
 {
-Remaining enemies:
+Inimigos restantes:
 }
 
 STRING 4207
@@ -2540,49 +2542,49 @@ Mansão dos Altos Elfos
 STRING 4217
 // Units: nef1 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4218
 // Units: nef2 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4219
 // Units: nef3 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4220
 // Units: nef4 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4221
 // Units: nef5 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4222
 // Units: nef6 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4223
 // Units: nef7 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4224
 // Units: nefm (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Mansão dos Altos Elfos
 }
 
 STRING 4225
@@ -2597,7 +2599,7 @@ Pilhas de escombros restantes
 
 STRING 4228
 {
-Quest objectives
+Objetivos da missão
 }
 
 STRING 4229
@@ -2631,7 +2633,7 @@ Precisamos dar apoio aos nossos arqueiros e derrubar esses dragões!
 STRING 4234
 // Items: ILMx (WC2Human01Muradin05a), Tip (Tooltip - Basic)
 {
-Muradin Bronzebeard
+Muradin Barbabronze
 }
 
 STRING 4235
@@ -2655,7 +2657,7 @@ Cinematic Orc Mini Flying
 STRING 4238
 // Items: ILoP (WC2Human01OrcPirate01), Tip (Tooltip - Basic)
 {
-Orc Pirate
+Pirata Orc
 }
 
 STRING 4239

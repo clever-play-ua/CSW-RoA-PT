@@ -5,7 +5,7 @@ WC2Human02
 
 STRING 3
 {
-Ambush at Tarren Mill
+Emboscada na Serraria Tarren
 }
 
 STRING 4
@@ -111,7 +111,7 @@ Fence Short (Pathless)
 STRING 56
 // Items: IL01 (WC2Human02Danath01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 57
@@ -129,7 +129,7 @@ WC2Human02Danath01
 STRING 59
 // Items: IL02 (WC2Human02Danath02), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 60
@@ -147,7 +147,7 @@ WC2Human02Danath02
 STRING 62
 // Items: IL03 (WC2Human02Danath03), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 63
@@ -165,7 +165,7 @@ WC2Human02Danath03
 STRING 65
 // Items: IL04 (WC2Human02Danath04), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 66
@@ -183,7 +183,7 @@ WC2Human02Danath04
 STRING 68
 // Items: IL05 (WC2Human02Danath05), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 69
@@ -201,7 +201,7 @@ WC2Human02Danath05
 STRING 71
 // Items: IL06 (WC2Human02Danath06), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 72
@@ -219,7 +219,7 @@ WC2Human02Danath06
 STRING 74
 // Items: IL07 (WC2Human02Danath07), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 75
@@ -237,7 +237,7 @@ WC2Human02Danath07
 STRING 77
 // Items: IL08 (WC2Human02Danath08), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 78
@@ -255,7 +255,7 @@ WC2Human02Danath08
 STRING 80
 // Items: IL09 (WC2Human02Danath09), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 81
@@ -273,7 +273,7 @@ WC2Human02Danath09
 STRING 83
 // Items: IL10 (WC2Human02Danath10), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 84
@@ -291,7 +291,7 @@ WC2Human02Danath10
 STRING 86
 // Items: IL11 (WC2Human02Danath11), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 87
@@ -309,7 +309,7 @@ WC2Human02Danath11
 STRING 89
 // Items: IL12 (WC2Human02Danath12), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 90
@@ -327,7 +327,7 @@ WC2Human02Danath12
 STRING 92
 // Items: IL13 (WC2Human02Danath13), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 93
@@ -345,7 +345,7 @@ WC2Human02Danath13
 STRING 95
 // Items: IL14 (WC2Human02Danath14), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 96
@@ -363,7 +363,7 @@ WC2Human02Danath14
 STRING 98
 // Items: IL15 (WC2Human02Danath15), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 100
@@ -375,7 +375,7 @@ WC2Human02Danath15
 STRING 101
 // Items: IL16 (WC2Human02Danath16), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 102
@@ -393,7 +393,7 @@ WC2Human02Danath16
 STRING 104
 // Items: IL17 (WC2Human02Danath17), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 105
@@ -411,7 +411,7 @@ WC2Human02Danath17
 STRING 107
 // Items: IL18 (WC2Human02Danath18), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 108
@@ -429,7 +429,7 @@ WC2Human02Danath18
 STRING 110
 // Items: IL19 (WC2Human02Danath19), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 111
@@ -447,7 +447,7 @@ WC2Human02Danath19
 STRING 113
 // Items: IL20 (WC2Human02Gavinrad01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 114
@@ -465,7 +465,7 @@ WC2Human02Gavinrad01
 STRING 116
 // Items: IL21 (WC2Human02Gavinrad02), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 117
@@ -483,7 +483,7 @@ WC2Human02Gavinrad02
 STRING 119
 // Items: IL22 (WC2Human02Gavinrad03), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 121
@@ -495,7 +495,7 @@ WC2Human02Gavinrad03
 STRING 122
 // Items: IL24 (WC2Human02Gavinrad04), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 123
@@ -513,7 +513,7 @@ WC2Human02Gavinrad04
 STRING 125
 // Items: IL25 (WC2Human02Gavinrad05), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 126
@@ -645,7 +645,7 @@ WC2Human02ElvenArcher04
 STRING 158
 // Items: IL32 (WC2Human02ElvenArcher01), Tip (Tooltip - Basic)
 {
-Elven Captain
+Capitão Elfico
 }
 
 STRING 160
@@ -657,7 +657,7 @@ WC2Human02ElvenCaptain01
 STRING 161
 // Items: IL33 (WC2Human02ElvenArcher02), Tip (Tooltip - Basic)
 {
-Elven Captain
+Capitão Elfico
 }
 
 STRING 163
@@ -669,7 +669,7 @@ WC2Human02ElvenCaptain02
 STRING 164
 // Items: IL38 (WC2Human02Milan01), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan, o Escriba
 }
 
 STRING 165
@@ -687,7 +687,7 @@ WC2Human02Milan01
 STRING 167
 // Items: IL39 (WC2Human02Milan02), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan, o Escriba
 }
 
 STRING 168
@@ -705,7 +705,7 @@ WC2Human02Milan02
 STRING 170
 // Items: IL40 (WC2Human02OrcCaptain01), Tip (Tooltip - Basic)
 {
-Orc Captain
+Capitão Orc
 }
 
 STRING 171
@@ -723,7 +723,7 @@ WC2Human02OrcCaptain01
 STRING 173
 // Items: IL41 (WC2Human02Prisoner01), Tip (Tooltip - Basic)
 {
-Prisoner
+Prisioneiro
 }
 
 STRING 174
@@ -741,7 +741,7 @@ WC2Human02Prisoner01
 STRING 176
 // Items: IL42 (WC2Human02Prisoner02), Tip (Tooltip - Basic)
 {
-Prisoner
+Prisioneiro
 }
 
 STRING 177
@@ -759,7 +759,7 @@ WC2Human02Prisoner02
 STRING 179
 // Items: IL43 (WC2Human02Prisoner03), Tip (Tooltip - Basic)
 {
-Prisoner
+Prisioneiro
 }
 
 STRING 180
@@ -777,7 +777,7 @@ WC2Human02Prisoner03
 STRING 182
 // Items: IL44 (WC2Human02Prisoner04), Tip (Tooltip - Basic)
 {
-Prisoner
+Prisioneiro
 }
 
 STRING 183
@@ -795,7 +795,7 @@ WC2Human02Prisoner04
 STRING 185
 // Items: IL45 (WC2Human02Defender01), Tip (Tooltip - Basic)
 {
-Regional Defender
+Defensor Regional
 }
 
 STRING 186
@@ -813,7 +813,7 @@ WC2Human02Defender01
 STRING 188
 // Items: IL46 (WC2Human02Defender02), Tip (Tooltip - Basic)
 {
-Regional Defender
+Defensor Regional
 }
 
 STRING 189
@@ -831,7 +831,7 @@ WC2Human02Defender02
 STRING 191
 // Items: IL47 (WC2Human02Defender03), Tip (Tooltip - Basic)
 {
-Regional Defender
+Defensor Regional
 }
 
 STRING 192
@@ -849,7 +849,7 @@ WC2Human02Defender03
 STRING 194
 // Items: IL48 (WC2Human02Orc01), Tip (Tooltip - Basic)
 {
-Drunk Orc
+Orc Bêbado
 }
 
 STRING 195
@@ -885,7 +885,7 @@ WC2Human02Orc02
 STRING 200
 // Items: IL50 (WC2Human02Peon01), Tip (Tooltip - Basic)
 {
-Peon
+Peão
 }
 
 STRING 202
@@ -897,7 +897,7 @@ WC2Human02Peon01
 STRING 203
 // Items: IL51 (WC2Human02Peon02), Tip (Tooltip - Basic)
 {
-Peon
+Peão
 }
 
 STRING 205
@@ -1304,7 +1304,7 @@ Stromgarde Strikeforce
 STRING 295
 // Units: nhew (Sylvan Craftsman), Name (Name)
 {
-Sylvan Craftsman
+Artesão Silvestre
 }
 
 STRING 296
@@ -1334,7 +1334,7 @@ Basic worker unit. Can build structures, and Repair.
 STRING 300
 // Units: hEwA (Sylvan Craftsman), Name (Name)
 {
-Sylvan Craftsman
+Artesão Silvestre
 }
 
 STRING 302
@@ -1404,73 +1404,73 @@ Esse era o nosso destino, mas destruidores trolls guardam a foz do rio. Não con
 STRING 314
 // Units: nchp (Nobbel the Pious), Name (Name)
 {
-Nobbel the Pious
+Nobbel, o Piedoso
 }
 
 STRING 315
 // Items: IL26 (WC2Human02Nobbel01), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel, o Piedoso
 }
 
 STRING 316
 // Items: IL27 (WC2Human02Nobbel02), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel, o Piedoso
 }
 
 STRING 317
 // Items: IL28 (WC2Human02Nobbel03), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel, o Piedoso
 }
 
 STRING 318
 // Items: IL29 (WC2Human02Nobbel04), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel, o Piedoso
 }
 
 STRING 319
 // Items: IL30 (WC2Human02Nobbel05), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel, o Piedoso
 }
 
 STRING 320
 // Items: IL34 (WC2Human02ElvenArcher03), Tip (Tooltip - Basic)
 {
-Elven Captain
+Capitão Elfico
 }
 
 STRING 321
 // Items: IL35 (WC2Human02ElvenArcher04), Tip (Tooltip - Basic)
 {
-Elven Captain
+Capitão Elfico
 }
 
 STRING 322
 // Items: IL36 (WC2Human02ElvenCaptain01), Tip (Tooltip - Basic)
 {
-Elven Captain
+Capitão Elfico
 }
 
 STRING 323
 // Items: IL37 (WC2Human02ElvenCaptain02), Tip (Tooltip - Basic)
 {
-Elven Captain
+Capitão Elfico
 }
 
 STRING 324
 // Items: IL31 (WC2Human02Nobbel06), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel, o Piedoso
 }
 
 STRING 327
 // Items: IL52 (WC2Human02Peon03), Tip (Tooltip - Basic)
 {
-Peon
+Peão
 }
 
 STRING 328

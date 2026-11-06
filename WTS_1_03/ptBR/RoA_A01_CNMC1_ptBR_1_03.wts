@@ -278,7 +278,7 @@ Lighthouse
 STRING 1194
 // Destructibles: B60U (Chest), Name (Name)
 {
-Chest
+Báu
 }
 
 STRING 1204
@@ -308,7 +308,7 @@ Castle Archway
 STRING 1240
 // Destructibles: B624 (Knight Statue), Name (Name)
 {
-Knight Statue
+Estátua de Cavaleiro
 }
 
 STRING 1282
@@ -599,7 +599,7 @@ You can Revive your hero at the Great Hall.
 
 STRING 2810
 {
-Unholy
+Profano
 }
 
 STRING 2864
@@ -815,7 +815,7 @@ Chapel
 STRING 2901
 // Destructibles: B00N (Food Supplies), Name (Name)
 {
-Food Supplies
+Suprimentos Alimentares
 }
 
 STRING 2902
@@ -1372,7 +1372,7 @@ WC2HumanAct01Antonidas03
 STRING 4030
 // Items: IL05 (WC2HumanAct01DaelinProudmoore01), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Almirante Proudmoore
 }
 
 STRING 4032
@@ -1384,7 +1384,7 @@ WC2HumanAct01DaelinProudmoore01
 STRING 4033
 // Items: IL06 (WC2HumanAct01DaelinProudmoore02), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Almirante Proudmoore
 }
 
 STRING 4034
@@ -1402,7 +1402,7 @@ WC2HumanAct01DaelinProudmoore02
 STRING 4036
 // Items: IL07 (WC2HumanAct01DaelinProudmoore03), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Almirante Proudmoore
 }
 
 STRING 4037
@@ -1420,7 +1420,7 @@ WC2HumanAct01DaelinProudmoore03
 STRING 4039
 // Items: IL08 (WC2HumanAct01Danath01), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 4040
@@ -1438,7 +1438,7 @@ WC2HumanAct01Danath01
 STRING 4042
 // Items: IL09 (WC2HumanAct01Danath02), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 4044
@@ -1450,7 +1450,7 @@ WC2HumanAct01Danath02
 STRING 4045
 // Items: IL10 (WC2HumanAct01Danath03), Tip (Tooltip - Basic)
 {
-Danath Trollbane
+Danath Matatroll
 }
 
 STRING 4046
@@ -1468,7 +1468,7 @@ WC2HumanAct01Danath03
 STRING 4048
 // Items: IL11 (WC2HumanAct01Gavinrad01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad, o Hediondo
 }
 
 STRING 4049
@@ -1486,7 +1486,7 @@ WC2HumanAct01Gavinrad01
 STRING 4051
 // Units: HGrF (King of Gilneas), Propernames (Proper Names)
 {
-Genn Graymane
+Genn Greymane
 }
 
 STRING 4052
@@ -1504,7 +1504,7 @@ WC2HumanAct01Graymane01
 STRING 4054
 // Items: IL12 (WC2HumanAct01Graymane01), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Greymane
 }
 
 STRING 4055
@@ -1522,7 +1522,7 @@ WC2HumanAct01Graymane02
 STRING 4057
 // Items: IL13 (WC2HumanAct01Graymane02), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Greymane
 }
 
 STRING 4058
@@ -1540,7 +1540,7 @@ WC2HumanAct01Graymane03
 STRING 4060
 // Items: IL14 (WC2HumanAct01Graymane03), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Greymane
 }
 
 STRING 4061
@@ -1558,7 +1558,7 @@ WC2HumanAct01Graymane04
 STRING 4063
 // Items: IL16 (WC2HumanAct01Guard01), Tip (Tooltip - Basic)
 {
-Kings Guard
+Guarda Real
 }
 
 STRING 4064
@@ -1966,7 +1966,7 @@ WC2HumanAct01Lothar23
 STRING 4144
 // Items: IL43 (WC2HumanAct01Marcus01), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Prefeito Marcus
 }
 
 STRING 4145
@@ -1984,7 +1984,7 @@ WC2HumanAct01Marcus01
 STRING 4147
 // Items: IL44 (WC2HumanAct01Marcus02), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Prefeito Marcus
 }
 
 STRING 4148
@@ -2002,7 +2002,7 @@ WC2HumanAct01Marcus02
 STRING 4150
 // Items: IL45 (WC2HumanAct01Marcus03), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Prefeito Marcus
 }
 
 STRING 4151
@@ -2622,7 +2622,7 @@ STRING 4277
 STRING 4278
 // Units: HTCF (King of Stromgarde), Propernames (Proper Names)
 {
-Thoras Trollbane
+Thoras MataTroll
 }
 
 STRING 4279
@@ -2694,7 +2694,7 @@ STRING 4289
 STRING 4290
 // Items: IL15 (WC2HumanAct01Graymane04), Tip (Tooltip - Basic)
 {
-Genn Graymane
+Genn Greymane
 }
 
 STRING 4291
@@ -2859,25 +2859,25 @@ Cleric
 STRING 4318
 // Items: IL71 (WC2HumanAct01Thoras01), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras MataTroll
 }
 
 STRING 4319
 // Items: IL72 (WC2HumanAct01Thoras02), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras MataTroll
 }
 
 STRING 4320
 // Items: IL73 (WC2HumanAct01Thoras03), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras MataTroll
 }
 
 STRING 4321
 // Items: IL74 (WC2HumanAct01Thoras04), Tip (Tooltip - Basic)
 {
-Thoras Trollbane
+Thoras MataTroll
 }
 
 STRING 4322
@@ -2904,7 +2904,7 @@ Enquanto isso, Anduin Lothar reúne as suas forças em Andorhal, recompondo-se a
 STRING 4329
 // Units: HLPA (Supreme Commander), Propernames (Proper Names)
 {
-Sir Anduin Lothar
+Senhor Anduin Lothar
 }
 
 STRING 4330

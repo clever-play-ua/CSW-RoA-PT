@@ -369,7 +369,7 @@ WC2Human03Antonidas_Intro3
 STRING 190
 // Items: IL09 (WC2Human03Rend_Announcement1), Tip (Tooltip - Basic)
 {
-Dal’Rend Blackhand
+Dal'Rend Mão Negra
 }
 
 STRING 192
@@ -381,7 +381,7 @@ WC2Human03Rend_Announcement1
 STRING 193
 // Items: IL10 (WC2Human03Maim_Announcement1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Maim Mão Negra
 }
 
 STRING 195
@@ -393,7 +393,7 @@ WC2Human03Maim_Announcement1
 STRING 196
 // Items: IL11 (WC2Human03Teron_Announcement1), Tip (Tooltip - Basic)
 {
-Teron Gorefiend
+Teron Sanguinávido
 }
 
 STRING 198
@@ -405,7 +405,7 @@ WC2Human03Teron_Announcement1
 STRING 199
 // Items: IL12 (WC2Human03Zuluhed_Announcement1), Tip (Tooltip - Basic)
 {
-Zuluhed the Whacked
+Zuluhed o Maluco
 }
 
 STRING 200
@@ -644,7 +644,7 @@ Khadgar
 STRING 250
 // Items: IL29 (WC2Human03Rend_Camp1), Tip (Tooltip - Basic)
 {
-Dal’Rend Blackhand
+Dal'Rend Mão Negra
 }
 
 STRING 252
@@ -656,7 +656,7 @@ WC2Human03Rend_Camp1
 STRING 253
 // Items: IL30 (WC2Human03Maim_Camp1), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Maim Mão Negra
 }
 
 STRING 254
@@ -674,7 +674,7 @@ WC2Human03Maim_Camp1
 STRING 256
 // Items: IL31 (WC2Human03Rend_Camp2), Tip (Tooltip - Basic)
 {
-Dal’Rend Blackhand
+Dal'Rend Mão Negra
 }
 
 STRING 258
@@ -1594,7 +1594,7 @@ Ative os Guardiões
 STRING 424
 // Units: nhew (Sylvan Craftsman), Name (Name)
 {
-Sylvan Craftsman
+Artesão Silvestre
 }
 
 STRING 425
@@ -1606,13 +1606,13 @@ STRING 425
 STRING 426
 // Units: nhew (Sylvan Craftsman), Tip (Tooltip - Basic)
 {
-Train Sylvan Craftsman
+Treinar Artesão Silvestre
 }
 
 STRING 428
 // Units: hEwA (Sylvan Craftsman), Tip (Tooltip - Basic)
 {
-Train Sylvan Craftsman
+Treinar Artesão Silvestre
 }
 
 STRING 429
@@ -1624,7 +1624,7 @@ STRING 429
 STRING 431
 // Units: hEwA (Sylvan Craftsman), Name (Name)
 {
-Sylvan Craftsman
+Artesão Silvestre
 }
 
 STRING 432
@@ -2691,7 +2691,7 @@ Instalando o Gerador mágico em:
 
 STRING 727
 {
-Setting up magical generator in:
+Instalando o Gerador mágico em:
 }
 
 STRING 728
@@ -2760,7 +2760,7 @@ Contra-ataque
 STRING 740
 // Units: nDam (Dam), Name (Name)
 {
-Dam
+Represa
 }
 
 STRING 741
@@ -2990,7 +2990,7 @@ Você quase me deu um susto!
 STRING 787
 // Items: IL92 (WC2Human03DalaranCaptain01), Tip (Tooltip - Basic)
 {
-Captain
+Capitão
 }
 
 STRING 789
@@ -3014,7 +3014,7 @@ Hm... eu poderia usar esses barris de petróleo para criar uma distração...
 STRING 795
 // Items: IL88 (WC2Human03Peon_Barrels01), Tip (Tooltip - Basic)
 {
-Peon
+Peão
 }
 
 STRING 796
@@ -3073,7 +3073,7 @@ Eu não celebraria ainda. Ainda há...
 STRING 807
 // Units: hBcn (Battleship), Name (Name)
 {
-Battleship
+Encouraçado
 }
 
 STRING 808
@@ -3256,7 +3256,7 @@ WC2Human03Krasus_Dam2
 STRING 842
 // Items: IL87 (WC2Human03Grunt_Barrels01), Tip (Tooltip - Basic)
 {
-Grunt
+Guerreiro
 }
 
 STRING 843
@@ -3280,7 +3280,7 @@ WC2Human03Peon_Barrels01
 STRING 846
 // Items: IL89 (WC2Human03TeronMeetPaladin01), Tip (Tooltip - Basic)
 {
-Teron Gorefiend
+Teron Sanguinávido
 }
 
 STRING 847
@@ -3364,7 +3364,7 @@ WC2Human03Modera_Disguise5
 STRING 863
 // Items: IL94 (WC2Human03Maim_CatapultsLaunch01), Tip (Tooltip - Basic)
 {
-Maim Blackhand
+Maim Mão Negra
 }
 
 STRING 864
@@ -3900,13 +3900,13 @@ Checlpoint On
 STRING 980
 // Units: nhew (Sylvan Craftsman), Ubertip (Tooltip - Extended)
 {
-Sylvan Craftsmen are the diligent workers from Quel’Thalas. They harvest gold and lumber, construct buildings, and perform repairs with practiced skill.|n|n|cffffcc00Attacks land units and trees.|r
+Artesão Silvestres são os trabalhadores dedicados de Quel'Thalas. Eles coletam ouro e madeira, constroem edificios, e fazem reparos com habilidade. |n|n|cffffcc00Ataca unidades terrestres e árvores.|r
 }
 
 STRING 981
 // Units: hEwA (Sylvan Craftsman), Ubertip (Tooltip - Extended)
 {
-Sylvan Craftsmen are the diligent workers from Quel’Thalas. They harvest gold and lumber, construct buildings, and perform repairs with practiced skill.|n|n|cffffcc00Attacks land units and trees.|r
+Artesão Silvestres são os trabalhadores dedicados de Quel'Thalas. Eles coletam ouro e madeira, constroem edificios, e fazem reparos com habilidade. |n|n|cffffcc00Ataca unidades terrestres e árvores.|r
 }
 
 STRING 982
